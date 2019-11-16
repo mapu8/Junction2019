@@ -4,4 +4,7 @@
 .Ruserdata
 .DS_Store
 */.DS_Store
-node_modules
+node_modules/*
+python/__pycache__/
+AzureMap/node_modules/*
+

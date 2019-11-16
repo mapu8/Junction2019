@@ -5,11 +5,11 @@ library(ggplot2)
 
 #### AZURE INPUT ####
 # Map 1-based optional input ports to variables
-data <- maml.mapInputPort(1) # class: data.frame
-dataset2 <- maml.mapInputPort(2) # class: data.frame
+dataset1 <- maml.mapInputPort(1) # class: data.frame
+#dataset2 <- maml.mapInputPort(2) # class: data.frame
 
-#### ####
-data = fromJSON("data/data.json")$raw
+#### Functions, utilities ####
+#dataset1 = fromJSON("data/data.json")$raw
 
 stations = c(
   `0000000006dd41f6` = "Hernesaari LHC",
@@ -54,21 +54,25 @@ prepare_data <- function(data) {
   dat
 }
 
-# Number of devices connected per beacon per 10 seconds
+#### Data transformations ####
+
+data = prepare_data(dataset1)
+
+#### Visualisations ####
+
+# Plot number of devices connected per beacon per 10 seconds
 data %>% 
-  prepare_data %>% 
   group_by(beacon_name, time_interval) %>% 
   summarise(n_devices = length(unique(device))) %>% 
   ggplot() + 
   geom_line(aes(x = time_interval, y=n_devices, color=beacon_name))
 
-# Number of devices connected per beacon, shown on a map
+# Plot number of devices connected per beacon, shown on a map
 data %>% 
-  prepare_data %>% 
-  group_by(beacon, latitude, longitude) %>% 
+  group_by(beacon_name, latitude, longitude) %>% 
   summarise(n_devices = length(unique(device))) %>% 
   ggplot() + 
-  geom_point(aes(x = longitude, y=latitude, size=n_devices, color=beacon))
+  geom_point(aes(x = longitude, y=latitude, size=n_devices, color=beacon_name))
 
 
 #### AZURE OUTPUT ####
