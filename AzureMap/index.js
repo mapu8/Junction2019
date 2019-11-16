@@ -189,13 +189,13 @@ var map, datasource, datasourceHeat, client, popup, searchInput, resultsPanel, s
             // console.log(layers);
             if(datasourceHeat){
                 // 
-                datasourceHeat.importDataFromUrl('./data/people_summary.json');
+                datasourceHeat.importDataFromUrl('./data/data.json');
                 
                 n_people = parseInt(datasourceHeat.shapes[val].getProperties().n_people);
                 time = (datasourceHeat.shapes[val].getProperties().time_interval);
                 if(n_people > 40){
-                    Http.open("GET", url);
-                    Http.send();
+                    // Http.open("GET", url);
+                    // Http.send();
                 }
                 
             }
