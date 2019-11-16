@@ -189,7 +189,7 @@ var map, datasource, datasourceHeat, client, popup, searchInput, resultsPanel, s
             // console.log(layers);
             if(datasourceHeat){
                 // 
-                datasourceHeat.importDataFromUrl('./data/data.json');
+                datasourceHeat.importDataFromUrl('./data/people_summary.json');
                 
                 n_people = parseInt(datasourceHeat.shapes[val].getProperties().n_people);
                 time = (datasourceHeat.shapes[val].getProperties().time_interval);
