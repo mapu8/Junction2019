@@ -60,7 +60,7 @@ var map,heatLayer, datasource, datasourceHeat, datasourceBeacon, client, popup, 
                 });
                 datasourceHeat = new atlas.source.DataSource();
                 map.sources.add(datasourceHeat);
-                 datasourceHeat.importDataFromUrl('./data/people_summary.json');
+                 datasourceHeat.importDataFromUrl('people_summary.js');
                   heatLayer = new atlas.layer.HeatMapLayer(datasourceHeat, null, {
                     weight: ['get', 'point_count'],
                     radius: 40,
