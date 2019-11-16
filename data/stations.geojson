@@ -1,0 +1,145 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Amos Rex"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.93641,60.17065]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Dianapuisto"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.9442,60.16531]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Hakaniemen kauppahalli 1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95141,60.17918]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Hakaniemen kauppahalli 2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95181,60.17919]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Hernesaari LHB"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.92329,60.15133]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Hernesaari LHD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.922,60.14699]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Katajanokan laituri"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95957,60.16629]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Katajanokan laituri 2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.97323,60.16448]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Katajanokan terminaali"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.96846,60.1638]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Lansiterminaali 1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.9211,60.15432]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Sibelius Monumentti"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.91341,60.18203]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Stockmann"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.94214,60.16829]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Suomenlinna"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.9843,60.149]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Temppeliaukion kirkko"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.92524,60.173]
+      }
+    }
+  ]
+}
