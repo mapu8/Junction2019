@@ -6,4 +6,5 @@
 */.DS_Store
 node_modules/*
 python/__pycache__/
+AzureMap/node_modules/*
 
