@@ -50,7 +50,10 @@ def hypercell_api(time_start, time_stop):
     'cache-control': "no-cache"
     }
     response = requests.request("POST", url, headers=headers)
-    return response.json()
+    output = response.json()
+    return output
+    
+    
 
 def linked_events_api(start_time, stop_time, location):
     '''
@@ -64,8 +67,27 @@ def linked_events_api(start_time, stop_time, location):
 
 def azureml_main(dataframe1 = None, dataframe2 = None):
     '''
-    Returns DataFrame
+    Connecting function required by Azure.
+    Has to take two inputs dataframe1 and datafram2 and return a pd.DataFrame.
     '''
     data_json = hypercell_api("2019-08-01T12:00:00Z", "2019-08-01T12:00:10Z")
     data = pd.DataFrame(data_json['raw'])
     return data
+
+def get_some_data(time_start="2019-08-01T12:00:00Z", time_stop="2019-08-01T12:00:10Z", filename='data/data.json'):
+    '''
+    Convenience function to quickly access the API and save a file data/data.json
+    '''
+    data_json = hypercell_api(time_start, time_stop)
+    write_json(data_json, filename)
+
+#get_some_data(time_start="2019-08-01T12:00:00Z", time_stop="2019-08-01T12:05:00Z", filename='data/data.json')
+
+def hypercell_api_parallel(time_start, time_stop):
+    '''
+    Make parallel requests to API. The request times out if you try to get more than 1 minute of data. 
+    See example here: https://skipperkongen.dk/2016/09/09/easy-parallel-http-requests-with-python-and-asyncio/
+    '''
+    #TODO write this
+    return None
+
