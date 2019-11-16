@@ -1,7 +1,8 @@
 
-var map, datasource, datasourceHeat, client, popup, searchInput, resultsPanel, searchInputLength, centerMapOnResults, id;
+var map, datasource, datasourceHeat, client, popup, searchInput, resultsPanel, searchInputLength, centerMapOnResults, n_people, time;
 
-
+    const Http = new XMLHttpRequest();
+    var url='https://api.telegram.org/bot1030965882:AAEH9qqrIMB5T2Ja5J7FO6sjL-z93_xaC6Y/sendMessage?chat_id=150042785&text=TestingAPP';
         //The minimum number of characters needed in the search input before a search is performed.
         var minSearchInputLength = 3;
         //The number of ms between key strokes to wait before performing a search.
@@ -10,7 +11,7 @@ var map, datasource, datasourceHeat, client, popup, searchInput, resultsPanel, s
             //Initialize a map instance.
             map = new atlas.Map('Map', {
                 center: [24.95, 60.17],
-                zoom: 10,
+                zoom: 15,
                 view: 'Auto',
 				//Add your Azure Maps subscription key to the map SDK. Get an Azure Maps key at https://azure.com/maps
                 authOptions: {
@@ -189,8 +190,13 @@ var map, datasource, datasourceHeat, client, popup, searchInput, resultsPanel, s
             if(datasourceHeat){
                 // 
                 datasourceHeat.importDataFromUrl('./data/people_summary.json');
-                console.log(val);
+                
                 n_people = parseInt(datasourceHeat.shapes[val].getProperties().n_people);
+                time = (datasourceHeat.shapes[val].getProperties().time_interval);
+                if(n_people > 40){
+                    // Http.open("GET", url);
+                    // Http.send();
+                }
                 
             }
             else{
@@ -203,8 +209,9 @@ var map, datasource, datasourceHeat, client, popup, searchInput, resultsPanel, s
                 opacity: 0.8
             });
             
+            console.log(time);
 
-            
+            output.innerHTML = time;
 
                 console.log(datasourceHeat);
                 datasourceHeat.clear();
