@@ -62,7 +62,6 @@ data = prepare_data(dataset1)
 
 # Plot number of devices connected per beacon per 10 seconds
 data %>% 
-  prepare_data %>% 
   group_by(beacon_name, time_interval) %>% 
   summarise(n_devices = length(unique(device))) %>% 
   ggplot() + 
@@ -70,7 +69,6 @@ data %>%
 
 # Plot number of devices connected per beacon, shown on a map
 data %>% 
-  prepare_data %>% 
   group_by(beacon_name, latitude, longitude) %>% 
   summarise(n_devices = length(unique(device))) %>% 
   ggplot() + 
