@@ -1,6 +1,8 @@
 import requests
 import json
 import pandas as pd
+import math
+import datetime
 
 def write_json(D, filename):
     '''
@@ -52,17 +54,19 @@ def hypercell_api(time_start, time_stop):
     response = requests.request("POST", url, headers=headers)
     output = response.json()
     return output
-    
-    
 
-def linked_events_api(start_time, stop_time, location):
+def linked_events_api(start_time="2019-08-01", stop_time="2019-08-02", location=[None, None], radius=):
     '''
     Wrapper for Helsinki City Linked Events (http://api.hel.fi/linkedevents/v1/event/?location=tprek:28473).
 
     Returns list of event names in a specified location and time.
     '''
-    #TODO Write this
-    return None
+    url = "http://api.hel.fi/linkedevents/v1/event"
+    url = url + "/?start=" + start_time + "&end=" + stop_time
+    if location != None: 
+        url = url + "?bbox=" + ','.join([str(s) for s in compute_bbox(location, radius)]) #TODO Debug
+    response = requests.request("GET", url)
+    return response
 
 
 def azureml_main(dataframe1 = None, dataframe2 = None):
@@ -90,4 +94,57 @@ def hypercell_api_parallel(time_start, time_stop):
     '''
     #TODO write this
     return None
+
+def print_json(json_file):
+    '''
+    Print a json file in pretty format.
+    '''
+    print(json.dumps(json_file, indent=4, sort_keys=True))
+
+def compute_bbox(location = [None, None], box_size=100):
+    '''
+    Returns a bounding box around a location = [lon, lat]
+    box_size in meters
+    Reference: https://stackoverflow.com/questions/2839533/adding-distance-to-a-gps-coordinate
+    Returns vertices of bounding box of size box_size
+    west is the longitude of the rectangle's western boundary, south is the latitude of the rectangle's southern boundary, and so on.
+    '''
+    lon0=location[0]
+    lat0=location[1]
+    east = lat0 + (180/math.pi)*(box_size/6378137)
+    north = lon0 + (180/math.pi)*(box_size/6378137)/math.cos(lat0)
+    west = lat0 + (180/math.pi)*(-box_size/6378137)
+    south = lon0 + (180/math.pi)*(-box_size/6378137)/math.cos(lat0)
+    return [west,south,east,north]
+
+def sample_10sec_per_hour_from_day(date="2019-08-01"):
+    '''
+    Sample one second every hour for a day to get more data.
+    NOTE: Very sloppily made. Rewrite this.
+
+    Returns dictionary with keys=hours_in_date and values=hypercell_api(time, time_plus_10sec)
+    #TODO Return a data frame.
+    '''
+    hours_in_date = [date+"T"+str.zfill(str(hour), 2)+":00:00Z" for hour in range(24)]
+    result = dict()
+    for time in hours_in_date:
+        time_plus_10sec = time.replace('00Z', '10Z')
+        print("Calling hypercell_api for time="+time)
+        result[time] = hypercell_api(time, time_plus_10sec)
+    return result
+
+def sample_day_and_previous_days(date="2019-05-27", n_previous=5):
+    result = dict()
+    date_obj = datetime.datetime.strptime(date, "%Y-%m-%d")
+    previous_n_days = [(date_obj - datetime.timedelta(days=n_days)).strftime("%Y-%m-%d") for n_days in range(n_previous+1)]
+    res = dict()
+    for day in previous_n_days:
+        res[day] = sample_10sec_per_hour_from_day(day)
+    return res
+
+# Draft
+#august = sample_day_and_previous_days(date="2019-08-31", n_previous=31)
+#write_json(august, 'data/august.json')
+
+
 
