@@ -4,4 +4,4 @@ Repo for Junction 2019 project
 * Rafael
 * Lauros
 * Abraham
-* Jhosima
+* Jhosimar
