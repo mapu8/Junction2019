@@ -1,5 +1,5 @@
 
-var map, datasource, datasourceHeat, client, popup, searchInput, resultsPanel, searchInputLength, centerMapOnResults, n_people, time;
+var map,heatLayer, datasource, datasourceHeat, datasourceBeacon, client, popup, searchInput, resultsPanel, searchInputLength, centerMapOnResults, n_people, time, shapes;
 
     const Http = new XMLHttpRequest();
     var url='https://api.telegram.org/bot1030965882:AAEH9qqrIMB5T2Ja5J7FO6sjL-z93_xaC6Y/sendMessage?chat_id=150042785&text=TestingAPP';
@@ -49,10 +49,40 @@ var map, datasource, datasourceHeat, client, popup, searchInput, resultsPanel, s
                 // datasourceHeat.importDataFromUrl('https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_week.geojson');
                 // datasourceHeat.importDataFromUrl('./data/earthquakes.json');
                 
-
-                
                 
                  map.layers.add(searchLayer);
+
+                 datasourceHeat = new atlas.source.DataSource(null, {
+                    //Tell the data source to cluster point data.
+                    cluster: true,
+                    // //The radius in pixels to cluster points together.
+                    clusterRadius: 15
+                });
+                datasourceHeat = new atlas.source.DataSource();
+                map.sources.add(datasourceHeat);
+                 datasourceHeat.importDataFromUrl('./data/people_summary.json');
+                  heatLayer = new atlas.layer.HeatMapLayer(datasourceHeat, null, {
+                    weight: ['get', 'point_count'],
+                    radius: 40,
+                    opacity: 0.8
+                });
+                map.layers.add(heatLayer,'labels')
+
+                
+
+                datasourceBeacon = new atlas.source.DataSource();
+                datasourceBeacon.importDataFromUrl('./data/people_summary.json');
+                map.sources.add(datasourceBeacon);
+                //Add a layer for rendering the results.
+                var beaconLayer = new atlas.layer.SymbolLayer(datasourceBeacon, null, {
+                    iconOptions: {
+                        image: 'pin-round-darkblue',
+                        anchor: 'center',
+                        allowOverlap: true
+                    }
+                });
+
+                map.layers.add(beaconLayer);
                  
 
                 //Add a click event to the search layer and show a popup when a result is clicked.
@@ -189,34 +219,38 @@ var map, datasource, datasourceHeat, client, popup, searchInput, resultsPanel, s
             // console.log(layers);
             if(datasourceHeat){
                 // 
-                datasourceHeat.importDataFromUrl('./data/people_summary.json');
+                var pt = heatLayer.getOptions();
+                console.log(pt.radius)
+                console.log(n_people)
+                pt.radius = n_people;
+                heatLayer.setOptions(pt);
                 
+                shapes = datasourceHeat.getShapes();
                 n_people = parseInt(datasourceHeat.shapes[val].getProperties().n_people);
                 time = (datasourceHeat.shapes[val].getProperties().time_interval);
+                
                 if(n_people > 40){
                     // Http.open("GET", url);
                     // Http.send();
                 }
+                // console.log(n_people)
                 
             }
             else{
-                datasourceHeat = new atlas.source.DataSource();
                 map.sources.add(datasourceHeat);
             }
             
-            var heatLayer = new atlas.layer.HeatMapLayer(datasourceHeat, null, {
-                radius: n_people,
-                opacity: 0.8
-            });
             
-            console.log(time);
+            // datasourceHeat.setShapes(shapes);
+            
+            
+            // console.log(time);
 
             output.innerHTML = time;
 
-                console.log(datasourceHeat);
-                datasourceHeat.clear();
-            // console.log(prop)
-            map.layers.add(heatLayer,'labels');
+            // datasourceHeat.clear();
+            // console.log(datasourceHeat);
+           
             
             // datasourceHeat.shapes[0].getProperties()
             
