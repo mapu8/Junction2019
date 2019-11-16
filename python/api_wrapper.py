@@ -81,3 +81,13 @@ def get_some_data(time_start="2019-08-01T12:00:00Z", time_stop="2019-08-01T12:00
     data_json = hypercell_api(time_start, time_stop)
     write_json(data_json, filename)
 
+#get_some_data(time_start="2019-08-01T12:00:00Z", time_stop="2019-08-01T12:05:00Z", filename='data/data.json')
+
+def hypercell_api_parallel(time_start, time_stop):
+    '''
+    Make parallel requests to API. The request times out if you try to get more than 1 minute of data. 
+    See example here: https://skipperkongen.dk/2016/09/09/easy-parallel-http-requests-with-python-and-asyncio/
+    '''
+    #TODO write this
+    return None
+
