@@ -1,5 +1,5 @@
-var map, datasource, datasourceHeat, client, popup, searchInput, resultsPanel, searchInputLength, centerMapOnResults;
 
+var map, datasource, datasourceHeat, client, popup, searchInput, resultsPanel, searchInputLength, centerMapOnResults, id;
 
 
         //The minimum number of characters needed in the search input before a search is performed.
@@ -9,8 +9,8 @@ var map, datasource, datasourceHeat, client, popup, searchInput, resultsPanel, s
         function GetMap() {
             //Initialize a map instance.
             map = new atlas.Map('Map', {
-                center: [25, 61],
-                zoom: 3,
+                center: [24.95, 60.17],
+                zoom: 10,
                 view: 'Auto',
 				//Add your Azure Maps subscription key to the map SDK. Get an Azure Maps key at https://azure.com/maps
                 authOptions: {
@@ -43,20 +43,17 @@ var map, datasource, datasourceHeat, client, popup, searchInput, resultsPanel, s
                     }
                 });
 
-                datasourceHeat = new atlas.source.DataSource();
-                map.sources.add(datasourceHeat);
+                
 
                 // datasourceHeat.importDataFromUrl('https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_week.geojson');
                 // datasourceHeat.importDataFromUrl('./data/earthquakes.json');
-                datasourceHeat.importDataFromUrl('./data/data.json');
+                
 
-                var heatLayer = new atlas.layer.HeatMapLayer(datasourceHeat, null, {
-		            radius: 6,
-		            opacity: 0.8
-                });
+                
                 
                  map.layers.add(searchLayer);
-                 map.layers.add(heatLayer,'labels');
+                 
+
                 //Add a click event to the search layer and show a popup when a result is clicked.
                 map.events.add("click", searchLayer, function (e) {
                     //Make sure the event occurred on a shape feature.
@@ -64,6 +61,11 @@ var map, datasource, datasourceHeat, client, popup, searchInput, resultsPanel, s
                         showPopup(e.shapes[0]);
                     }
                 });
+
+                // map.events.add("dataadded",heatLayer, function (e) {
+                //     console.log(e);
+                //     }
+                // );
             });
         }
         function searchInputKeyup(e) {
@@ -178,4 +180,37 @@ var map, datasource, datasourceHeat, client, popup, searchInput, resultsPanel, s
                 content: html.join('')
             });
             popup.open(map);
+        }
+
+        function slide(val){
+            // console.log(val)
+            const layers = map.getLayers();
+            // console.log(layers);
+            if(datasourceHeat){
+                // 
+                datasourceHeat.importDataFromUrl('./data/people_summary.json');
+                console.log(val);
+                n_people = parseInt(datasourceHeat.shapes[val].getProperties().n_people);
+                
+            }
+            else{
+                datasourceHeat = new atlas.source.DataSource();
+                map.sources.add(datasourceHeat);
+            }
+            
+            var heatLayer = new atlas.layer.HeatMapLayer(datasourceHeat, null, {
+                radius: n_people,
+                opacity: 0.8
+            });
+            
+
+            
+
+                console.log(datasourceHeat);
+                datasourceHeat.clear();
+            // console.log(prop)
+            map.layers.add(heatLayer,'labels');
+            
+            // datasourceHeat.shapes[0].getProperties()
+            
         }
