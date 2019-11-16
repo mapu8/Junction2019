@@ -1,6 +1,6 @@
 import requests
 import json
-
+import pandas as pd
 
 def write_json(D, filename):
     '''
@@ -60,3 +60,12 @@ def linked_events_api(start_time, stop_time, location):
     '''
     #TODO Write this
     return None
+
+
+def azureml_main(dataframe1 = None, dataframe2 = None):
+    '''
+    Returns DataFrame
+    '''
+    data_json = hypercell_api("2019-08-01T12:00:00Z", "2019-08-01T12:00:10Z")
+    data = pd.DataFrame(data_json['raw'])
+    return data
