@@ -351,7 +351,7 @@ datasource, datasourceBeacon, client, popup, searchInput, resultsPanel, searchIn
                 /////================/////
                 time = (datasourceHeat_1.shapes[val].getProperties().time_interval);
                 
-                if(alertMsg1 > 0.7 || alertMsg2 > 0.7 || alertMsg3 > 0.7||alertMsg3 > 0.7){
+                if(alertMsg1 > 0.7){
                     var  Http = new XMLHttpRequest();
                     var msg = "Abraham nearby the Beacon ";
                     msg = msg.concat(datasourceHeat_3.shapes[val].getProperties().beacon_name);
