@@ -1,5 +1,9 @@
 
-var map,heatLayer, datasource, datasourceHeat, datasourceBeacon, client, popup, searchInput, resultsPanel, searchInputLength, centerMapOnResults, n_people, time, shapes;
+var map, heatLayer_1, datasourceHeat_1, n_people1,
+heatLayer_2, datasourceHeat_2, n_people2,
+heatLayer_3, datasourceHeat_3, n_people3,
+heatLayer_4, datasourceHeat_4, n_people4,
+datasource, datasourceBeacon, client, popup, searchInput, resultsPanel, searchInputLength, centerMapOnResults,   time, shapes;
 
     const Http = new XMLHttpRequest();
     var url='https://api.telegram.org/bot1030965882:AAEH9qqrIMB5T2Ja5J7FO6sjL-z93_xaC6Y/sendMessage?chat_id=150042785&text=TestingAPP';
@@ -52,25 +56,7 @@ var map,heatLayer, datasource, datasourceHeat, datasourceBeacon, client, popup, 
                 
                  map.layers.add(searchLayer);
 
-                 datasourceHeat = new atlas.source.DataSource(null, {
-                    //Tell the data source to cluster point data.
-                    cluster: true,
-                    // //The radius in pixels to cluster points together.
-                    clusterRadius: 15
-                });
-                datasourceHeat = new atlas.source.DataSource();
-                map.sources.add(datasourceHeat);
-                 datasourceHeat.importDataFromUrl('./data/people_summary.js');
-                  heatLayer = new atlas.layer.HeatMapLayer(datasourceHeat, null, {
-                    weight: ['get', 'point_count'],
-                    radius: 40,
-                    opacity: 0.8
-                });
-                map.layers.add(heatLayer,'labels')
-
-                
-
-                datasourceBeacon = new atlas.source.DataSource();
+                 datasourceBeacon = new atlas.source.DataSource();
                 datasourceBeacon.importDataFromUrl('./data/people_summary.js');
                 map.sources.add(datasourceBeacon);
                 //Add a layer for rendering the results.
@@ -82,7 +68,74 @@ var map,heatLayer, datasource, datasourceHeat, datasourceBeacon, client, popup, 
                     }
                 });
 
-                map.layers.add(beaconLayer);
+                 map.layers.add(beaconLayer);
+
+
+                 datasourceHeat_1 = new atlas.source.DataSource(null, {
+                    //Tell the data source to cluster point data.
+                    cluster: true,
+                    // //The radius in pixels to cluster points together.
+                    clusterRadius: 5    
+                });
+                datasourceHeat_1 = new atlas.source.DataSource();
+                map.sources.add(datasourceHeat_1);
+                 datasourceHeat_1.importDataFromUrl('./data/people_1.js');
+                  heatLayer_1 = new atlas.layer.HeatMapLayer(datasourceHeat_1, null, {
+                    weight: ['get', 'point_count'],
+                    radius: 15,
+                    opacity: 0.8
+                });
+                map.layers.add(heatLayer_1,'labels1')
+
+                datasourceHeat_2 = new atlas.source.DataSource(null, {
+                    //Tell the data source to cluster point data.
+                    cluster: true,
+                    // //The radius in pixels to cluster points together.
+                    clusterRadius: 5    
+                });
+                datasourceHeat_2 = new atlas.source.DataSource();
+                map.sources.add(datasourceHeat_2);
+                 datasourceHeat_2.importDataFromUrl('./data/people_2.js');
+                  heatLayer_2 = new atlas.layer.HeatMapLayer(datasourceHeat_2, null, {
+                    weight: ['get', 'point_count'],
+                    radius: 15,
+                    opacity: 0.8
+                });
+                map.layers.add(heatLayer_2,'labels2')
+
+                
+                datasourceHeat_3 = new atlas.source.DataSource(null, {
+                    //Tell the data source to cluster point data.
+                    cluster: true,
+                    // //The radius in pixels to cluster points together.
+                    clusterRadius: 5    
+                });
+                datasourceHeat_3 = new atlas.source.DataSource();
+                map.sources.add(datasourceHeat_3);
+                 datasourceHeat_3.importDataFromUrl('./data/people_3.js');
+                  heatLayer_3 = new atlas.layer.HeatMapLayer(datasourceHeat_3, null, {
+                    weight: ['get', 'point_count'],
+                    radius: 15,
+                    opacity: 0.8
+                });
+                map.layers.add(heatLayer_3,'labels3')
+
+
+                datasourceHeat_4 = new atlas.source.DataSource(null, {
+                    //Tell the data source to cluster point data.
+                    cluster: true,
+                    // //The radius in pixels to cluster points together.
+                    clusterRadius: 5    
+                });
+                datasourceHeat_4 = new atlas.source.DataSource();
+                map.sources.add(datasourceHeat_4);
+                 datasourceHeat_4.importDataFromUrl('./data/people_4.js');
+                  heatLayer_4 = new atlas.layer.HeatMapLayer(datasourceHeat_4, null, {
+                    weight: ['get', 'point_count'],
+                    radius: 15,
+                    opacity: 0.8
+                });
+                map.layers.add(heatLayer_4,'labels4')
                  
 
                 //Add a click event to the search layer and show a popup when a result is clicked.
@@ -90,6 +143,28 @@ var map,heatLayer, datasource, datasourceHeat, datasourceBeacon, client, popup, 
                     //Make sure the event occurred on a shape feature.
                     if (e.shapes && e.shapes.length > 0) {
                         showPopup(e.shapes[0]);
+                    }
+                });
+
+                //Add a click event to the search layer and show a popup when a result is clicked.
+                map.events.add("click", beaconLayer, function (e) {
+                    //Make sure the event occurred on a shape feature.
+                    if (e.shapes && e.shapes.length > 0) {
+                        var properties = e.shapes[0].getProperties();
+                        //Create the HTML content of the POI to show in the popup.
+                        var html = ['<div class="poi-box">'];
+                        //Add a title section for the popup.
+                        html.push('<div class="poi-title-box"><b>');
+                        html.push(properties.beacon_name);
+                        html.push('</b></div>');
+                        html.push('<div class="poi-content-box">');
+            html.push('<div class="info location">', "free to use", '</div>');
+            html.push('</div></div>');
+            popup.setOptions({
+                position: e.shapes[0].getCoordinates(),
+                content: html.join('')
+            });
+            popup.open(map);
                     }
                 });
 
@@ -213,31 +288,70 @@ var map,heatLayer, datasource, datasourceHeat, datasourceBeacon, client, popup, 
             popup.open(map);
         }
 
-        function slide(val){
+        function slide(val) {
             // console.log(val)
             const layers = map.getLayers();
             // console.log(layers);
-            if(datasourceHeat){
+            if(datasourceHeat_1){
                 // 22 beacons
-                var pt = heatLayer.getOptions();
+                var pt = heatLayer_1.getOptions();
                 console.log(pt.radius)
-                console.log(n_people)
-                pt.radius = n_people;
-                heatLayer.setOptions(pt);
+                 console.log(n_people1)
+                 pt.radius = n_people1;
+
+                heatLayer_1.setOptions(pt);
                 
-                shapes = datasourceHeat.getShapes();
-                n_people = parseInt(datasourceHeat.shapes[val].getProperties().n_people);
-                time = (datasourceHeat.shapes[val].getProperties().time_interval);
+                // shapes = datasourceHeat_1.getShapes();
+                n_people1 = parseInt(datasourceHeat_1.shapes[val].getProperties().n_people);
+
+                // 22 beacons
+                var pt2 = heatLayer_2.getOptions();
+                console.log(pt2.radius)
+                 console.log(n_people2)
+                 pt2.radius = n_people2;
+
+                heatLayer_2.setOptions(pt2);
                 
-                if(n_people > 40){
+                n_people2 = parseInt(datasourceHeat_2.shapes[val].getProperties().n_people);
+
+
+                // 22 beacons
+                var pt3 = heatLayer_3.getOptions();
+                console.log(pt3.radius)
+                 console.log(n_people3)
+                 pt3.radius = n_people3;
+
+                heatLayer_3.setOptions(pt3);
+                
+                n_people3 = parseInt(datasourceHeat_3.shapes[val].getProperties().n_people);
+
+
+
+                // 22 beacons
+                var pt4 = heatLayer_4.getOptions();
+                console.log(pt4.radius)
+                 console.log(n_people4)
+                 pt4.radius = n_people4;
+
+                heatLayer_4.setOptions(pt4);
+                
+                n_people4 = parseInt(datasourceHeat_4.shapes[val].getProperties().n_people);
+
+
+
+                /////================/////
+                time = (datasourceHeat_1.shapes[val].getProperties().time_interval);
+                
+                if(n_people1 > 40){
                     // Http.open("GET", url);
                     // Http.send();
                 }
-                // console.log(n_people)
+                //  console.log(n_people1)
                 
             }
             else{
-                map.sources.add(datasourceHeat);
+                map.sources.add(datasourceHeat_1);
+                map.sources.add(datasourceHeat_2);
             }
             
             
