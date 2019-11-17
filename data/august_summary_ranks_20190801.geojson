@@ -1,0 +1,6809 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Amos Rex",
+        "time_interval": "2019-08-01 00:00:00",
+        "n_people": "1",
+        "avg_dist": "27.28",
+        "hour_rank": "0.0357142857142857"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.93641,60.17065]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Amos Rex",
+        "time_interval": "2019-08-01 05:00:00",
+        "n_people": "1",
+        "avg_dist": "23.56",
+        "hour_rank": "0.0204081632653061"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.93641,60.17065]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Amos Rex",
+        "time_interval": "2019-08-01 06:00:00",
+        "n_people": "4",
+        "avg_dist": "9.92",
+        "hour_rank": "0.222222222222222"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.93641,60.17065]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Amos Rex",
+        "time_interval": "2019-08-01 07:00:00",
+        "n_people": "12",
+        "avg_dist": "21.075",
+        "hour_rank": "0.580645161290323"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.93641,60.17065]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Amos Rex",
+        "time_interval": "2019-08-01 08:00:00",
+        "n_people": "19",
+        "avg_dist": "20.28",
+        "hour_rank": "0.625"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.93641,60.17065]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Amos Rex",
+        "time_interval": "2019-08-01 09:00:00",
+        "n_people": "34",
+        "avg_dist": "16.1",
+        "hour_rank": "0.828125"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.93641,60.17065]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Amos Rex",
+        "time_interval": "2019-08-01 10:00:00",
+        "n_people": "22",
+        "avg_dist": "13.75",
+        "hour_rank": "0.515625"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.93641,60.17065]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Amos Rex",
+        "time_interval": "2019-08-01 11:00:00",
+        "n_people": "17",
+        "avg_dist": "11.7",
+        "hour_rank": "0.3125"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.93641,60.17065]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Amos Rex",
+        "time_interval": "2019-08-01 12:00:00",
+        "n_people": "21",
+        "avg_dist": "23.56",
+        "hour_rank": "0.578125"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.93641,60.17065]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Amos Rex",
+        "time_interval": "2019-08-01 13:00:00",
+        "n_people": "25",
+        "avg_dist": "21.87",
+        "hour_rank": "0.65625"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.93641,60.17065]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Amos Rex",
+        "time_interval": "2019-08-01 14:00:00",
+        "n_people": "17",
+        "avg_dist": "20.28",
+        "hour_rank": "0.328125"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.93641,60.17065]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Amos Rex",
+        "time_interval": "2019-08-01 15:00:00",
+        "n_people": "20",
+        "avg_dist": "18.79",
+        "hour_rank": "0.71875"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.93641,60.17065]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Amos Rex",
+        "time_interval": "2019-08-01 16:00:00",
+        "n_people": "8",
+        "avg_dist": "13.75",
+        "hour_rank": "0.375"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.93641,60.17065]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Amos Rex",
+        "time_interval": "2019-08-01 17:00:00",
+        "n_people": "12",
+        "avg_dist": "21.87",
+        "hour_rank": "0.666666666666667"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.93641,60.17065]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Amos Rex",
+        "time_interval": "2019-08-01 18:00:00",
+        "n_people": "8",
+        "avg_dist": "29.32",
+        "hour_rank": "0.719298245614035"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.93641,60.17065]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Amos Rex",
+        "time_interval": "2019-08-01 19:00:00",
+        "n_people": "2",
+        "avg_dist": "29.32",
+        "hour_rank": "0.362068965517241"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.93641,60.17065]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Amos Rex",
+        "time_interval": "2019-08-01 20:00:00",
+        "n_people": "1",
+        "avg_dist": "20.28",
+        "hour_rank": "0.0188679245283019"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.93641,60.17065]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Amos Rex",
+        "time_interval": "2019-08-01 21:00:00",
+        "n_people": "4",
+        "avg_dist": "20.28",
+        "hour_rank": "0.772727272727273"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.93641,60.17065]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Amos Rex",
+        "time_interval": "2019-08-01 22:00:00",
+        "n_people": "2",
+        "avg_dist": "34.095",
+        "hour_rank": "0.235294117647059"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.93641,60.17065]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Amos Rex",
+        "time_interval": "2019-08-01 23:00:00",
+        "n_people": "1",
+        "avg_dist": "38.87",
+        "hour_rank": "0.0333333333333333"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.93641,60.17065]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Ateneum",
+        "time_interval": "2019-08-01 00:00:00",
+        "n_people": "14",
+        "avg_dist": "31.5",
+        "hour_rank": "0.78125"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.94407,60.17002]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Ateneum",
+        "time_interval": "2019-08-01 01:00:00",
+        "n_people": "11",
+        "avg_dist": "27.28",
+        "hour_rank": "0.709677419354839"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.94407,60.17002]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Ateneum",
+        "time_interval": "2019-08-01 02:00:00",
+        "n_people": "8",
+        "avg_dist": "23.56",
+        "hour_rank": "0.693548387096774"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.94407,60.17002]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Ateneum",
+        "time_interval": "2019-08-01 03:00:00",
+        "n_people": "7",
+        "avg_dist": "23.56",
+        "hour_rank": "0.65625"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.94407,60.17002]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Ateneum",
+        "time_interval": "2019-08-01 04:00:00",
+        "n_people": "8",
+        "avg_dist": "28.3",
+        "hour_rank": "0.515625"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.94407,60.17002]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Ateneum",
+        "time_interval": "2019-08-01 05:00:00",
+        "n_people": "23",
+        "avg_dist": "21.87",
+        "hour_rank": "0.8125"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.94407,60.17002]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Ateneum",
+        "time_interval": "2019-08-01 06:00:00",
+        "n_people": "16",
+        "avg_dist": "18.79",
+        "hour_rank": "0.59375"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.94407,60.17002]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Ateneum",
+        "time_interval": "2019-08-01 07:00:00",
+        "n_people": "32",
+        "avg_dist": "21.87",
+        "hour_rank": "0.903225806451613"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.94407,60.17002]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Ateneum",
+        "time_interval": "2019-08-01 08:00:00",
+        "n_people": "26",
+        "avg_dist": "18.79",
+        "hour_rank": "0.741935483870968"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.94407,60.17002]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Ateneum",
+        "time_interval": "2019-08-01 09:00:00",
+        "n_people": "30",
+        "avg_dist": "20.28",
+        "hour_rank": "0.629032258064516"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.94407,60.17002]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Ateneum",
+        "time_interval": "2019-08-01 10:00:00",
+        "n_people": "29",
+        "avg_dist": "20.28",
+        "hour_rank": "0.612903225806452"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.94407,60.17002]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Ateneum",
+        "time_interval": "2019-08-01 11:00:00",
+        "n_people": "26",
+        "avg_dist": "20.28",
+        "hour_rank": "0.629032258064516"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.94407,60.17002]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Ateneum",
+        "time_interval": "2019-08-01 12:00:00",
+        "n_people": "26",
+        "avg_dist": "20.28",
+        "hour_rank": "0.548387096774194"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.94407,60.17002]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Ateneum",
+        "time_interval": "2019-08-01 13:00:00",
+        "n_people": "37",
+        "avg_dist": "21.87",
+        "hour_rank": "0.741935483870968"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.94407,60.17002]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Ateneum",
+        "time_interval": "2019-08-01 14:00:00",
+        "n_people": "36",
+        "avg_dist": "18.79",
+        "hour_rank": "0.67741935483871"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.94407,60.17002]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Ateneum",
+        "time_interval": "2019-08-01 15:00:00",
+        "n_people": "38",
+        "avg_dist": "19.535",
+        "hour_rank": "0.774193548387097"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.94407,60.17002]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Ateneum",
+        "time_interval": "2019-08-01 16:00:00",
+        "n_people": "37",
+        "avg_dist": "14.89",
+        "hour_rank": "0.806451612903226"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.94407,60.17002]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Ateneum",
+        "time_interval": "2019-08-01 17:00:00",
+        "n_people": "29",
+        "avg_dist": "23.56",
+        "hour_rank": "0.671875"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.94407,60.17002]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Ateneum",
+        "time_interval": "2019-08-01 18:00:00",
+        "n_people": "24",
+        "avg_dist": "25.36",
+        "hour_rank": "0.6875"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.94407,60.17002]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Ateneum",
+        "time_interval": "2019-08-01 19:00:00",
+        "n_people": "26",
+        "avg_dist": "23.56",
+        "hour_rank": "0.765625"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.94407,60.17002]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Ateneum",
+        "time_interval": "2019-08-01 20:00:00",
+        "n_people": "12",
+        "avg_dist": "27.28",
+        "hour_rank": "0.546875"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.94407,60.17002]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Ateneum",
+        "time_interval": "2019-08-01 21:00:00",
+        "n_people": "28",
+        "avg_dist": "25.36",
+        "hour_rank": "0.875"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.94407,60.17002]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Ateneum",
+        "time_interval": "2019-08-01 22:00:00",
+        "n_people": "21",
+        "avg_dist": "27.28",
+        "hour_rank": "0.796875"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.94407,60.17002]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Ateneum",
+        "time_interval": "2019-08-01 23:00:00",
+        "n_people": "12",
+        "avg_dist": "25.36",
+        "hour_rank": "0.625"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.94407,60.17002]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Dianapuisto",
+        "time_interval": "2019-08-01 00:00:00",
+        "n_people": "18",
+        "avg_dist": "23.56",
+        "hour_rank": "0.913793103448276"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.9442,60.16531]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Dianapuisto",
+        "time_interval": "2019-08-01 01:00:00",
+        "n_people": "21",
+        "avg_dist": "25.36",
+        "hour_rank": "0.96551724137931"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.9442,60.16531]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Dianapuisto",
+        "time_interval": "2019-08-01 02:00:00",
+        "n_people": "17",
+        "avg_dist": "21.87",
+        "hour_rank": "0.96551724137931"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.9442,60.16531]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Dianapuisto",
+        "time_interval": "2019-08-01 03:00:00",
+        "n_people": "21",
+        "avg_dist": "26.32",
+        "hour_rank": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.9442,60.16531]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Dianapuisto",
+        "time_interval": "2019-08-01 04:00:00",
+        "n_people": "18",
+        "avg_dist": "23.56",
+        "hour_rank": "0.931034482758621"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.9442,60.16531]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Dianapuisto",
+        "time_interval": "2019-08-01 05:00:00",
+        "n_people": "20",
+        "avg_dist": "18.79",
+        "hour_rank": "0.758620689655172"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.9442,60.16531]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Dianapuisto",
+        "time_interval": "2019-08-01 06:00:00",
+        "n_people": "28",
+        "avg_dist": "20.28",
+        "hour_rank": "0.741379310344828"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.9442,60.16531]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Dianapuisto",
+        "time_interval": "2019-08-01 07:00:00",
+        "n_people": "32",
+        "avg_dist": "18.79",
+        "hour_rank": "0.793103448275862"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.9442,60.16531]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Dianapuisto",
+        "time_interval": "2019-08-01 08:00:00",
+        "n_people": "40",
+        "avg_dist": "18.79",
+        "hour_rank": "0.931034482758621"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.9442,60.16531]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Dianapuisto",
+        "time_interval": "2019-08-01 09:00:00",
+        "n_people": "46",
+        "avg_dist": "14.89",
+        "hour_rank": "0.879310344827586"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.9442,60.16531]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Dianapuisto",
+        "time_interval": "2019-08-01 10:00:00",
+        "n_people": "51",
+        "avg_dist": "16.1",
+        "hour_rank": "0.948275862068966"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.9442,60.16531]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Dianapuisto",
+        "time_interval": "2019-08-01 11:00:00",
+        "n_people": "33",
+        "avg_dist": "18.79",
+        "hour_rank": "0.655172413793103"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.9442,60.16531]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Dianapuisto",
+        "time_interval": "2019-08-01 12:00:00",
+        "n_people": "35",
+        "avg_dist": "13.75",
+        "hour_rank": "0.660714285714286"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.9442,60.16531]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Dianapuisto",
+        "time_interval": "2019-08-01 13:00:00",
+        "n_people": "37",
+        "avg_dist": "18.79",
+        "hour_rank": "0.803571428571429"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.9442,60.16531]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Dianapuisto",
+        "time_interval": "2019-08-01 14:00:00",
+        "n_people": "45",
+        "avg_dist": "18.79",
+        "hour_rank": "0.839285714285714"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.9442,60.16531]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Dianapuisto",
+        "time_interval": "2019-08-01 15:00:00",
+        "n_people": "42",
+        "avg_dist": "14.89",
+        "hour_rank": "0.910714285714286"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.9442,60.16531]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Dianapuisto",
+        "time_interval": "2019-08-01 16:00:00",
+        "n_people": "33",
+        "avg_dist": "13.75",
+        "hour_rank": "0.821428571428571"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.9442,60.16531]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Dianapuisto",
+        "time_interval": "2019-08-01 17:00:00",
+        "n_people": "29",
+        "avg_dist": "13.75",
+        "hour_rank": "0.642857142857143"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.9442,60.16531]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Dianapuisto",
+        "time_interval": "2019-08-01 18:00:00",
+        "n_people": "32",
+        "avg_dist": "21.87",
+        "hour_rank": "0.793103448275862"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.9442,60.16531]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Dianapuisto",
+        "time_interval": "2019-08-01 19:00:00",
+        "n_people": "24",
+        "avg_dist": "21.87",
+        "hour_rank": "0.724137931034483"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.9442,60.16531]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Dianapuisto",
+        "time_interval": "2019-08-01 20:00:00",
+        "n_people": "24",
+        "avg_dist": "21.87",
+        "hour_rank": "0.758620689655172"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.9442,60.16531]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Dianapuisto",
+        "time_interval": "2019-08-01 21:00:00",
+        "n_people": "22",
+        "avg_dist": "18.79",
+        "hour_rank": "0.775862068965517"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.9442,60.16531]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Dianapuisto",
+        "time_interval": "2019-08-01 22:00:00",
+        "n_people": "14",
+        "avg_dist": "25.36",
+        "hour_rank": "0.603448275862069"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.9442,60.16531]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Dianapuisto",
+        "time_interval": "2019-08-01 23:00:00",
+        "n_people": "20",
+        "avg_dist": "20.28",
+        "hour_rank": "0.879310344827586"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.9442,60.16531]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Hakaniemen kauppahalli 1",
+        "time_interval": "2019-08-01 00:00:00",
+        "n_people": "3",
+        "avg_dist": "29.32",
+        "hour_rank": "0.413793103448276"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95141,60.17918]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Hakaniemen kauppahalli 1",
+        "time_interval": "2019-08-01 01:00:00",
+        "n_people": "3",
+        "avg_dist": "23.615",
+        "hour_rank": "0.377049180327869"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95141,60.17918]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Hakaniemen kauppahalli 1",
+        "time_interval": "2019-08-01 02:00:00",
+        "n_people": "3",
+        "avg_dist": "24.46",
+        "hour_rank": "0.43859649122807"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95141,60.17918]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Hakaniemen kauppahalli 1",
+        "time_interval": "2019-08-01 03:00:00",
+        "n_people": "3",
+        "avg_dist": "12.69",
+        "hour_rank": "0.355932203389831"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95141,60.17918]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Hakaniemen kauppahalli 1",
+        "time_interval": "2019-08-01 04:00:00",
+        "n_people": "3",
+        "avg_dist": "25.36",
+        "hour_rank": "0.344262295081967"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95141,60.17918]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Hakaniemen kauppahalli 1",
+        "time_interval": "2019-08-01 05:00:00",
+        "n_people": "8",
+        "avg_dist": "9.12",
+        "hour_rank": "0.435483870967742"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95141,60.17918]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Hakaniemen kauppahalli 1",
+        "time_interval": "2019-08-01 06:00:00",
+        "n_people": "19",
+        "avg_dist": "7.69",
+        "hour_rank": "0.716666666666667"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95141,60.17918]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Hakaniemen kauppahalli 1",
+        "time_interval": "2019-08-01 07:00:00",
+        "n_people": "25",
+        "avg_dist": "10.78",
+        "hour_rank": "0.67741935483871"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95141,60.17918]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Hakaniemen kauppahalli 1",
+        "time_interval": "2019-08-01 08:00:00",
+        "n_people": "27",
+        "avg_dist": "11.24",
+        "hour_rank": "0.467741935483871"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95141,60.17918]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Hakaniemen kauppahalli 1",
+        "time_interval": "2019-08-01 09:00:00",
+        "n_people": "64",
+        "avg_dist": "9.92",
+        "hour_rank": "0.887096774193548"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95141,60.17918]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Hakaniemen kauppahalli 1",
+        "time_interval": "2019-08-01 10:00:00",
+        "n_people": "56",
+        "avg_dist": "10.78",
+        "hour_rank": "0.85"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95141,60.17918]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Hakaniemen kauppahalli 1",
+        "time_interval": "2019-08-01 11:00:00",
+        "n_people": "41",
+        "avg_dist": "9.12",
+        "hour_rank": "0.75"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95141,60.17918]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Hakaniemen kauppahalli 1",
+        "time_interval": "2019-08-01 12:00:00",
+        "n_people": "32",
+        "avg_dist": "11.7",
+        "hour_rank": "0.483333333333333"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95141,60.17918]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Hakaniemen kauppahalli 1",
+        "time_interval": "2019-08-01 13:00:00",
+        "n_people": "28",
+        "avg_dist": "10.78",
+        "hour_rank": "0.583333333333333"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95141,60.17918]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Hakaniemen kauppahalli 1",
+        "time_interval": "2019-08-01 14:00:00",
+        "n_people": "23",
+        "avg_dist": "10.78",
+        "hour_rank": "0.610169491525424"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95141,60.17918]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Hakaniemen kauppahalli 1",
+        "time_interval": "2019-08-01 15:00:00",
+        "n_people": "13",
+        "avg_dist": "14.89",
+        "hour_rank": "0.45"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95141,60.17918]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Hakaniemen kauppahalli 1",
+        "time_interval": "2019-08-01 16:00:00",
+        "n_people": "3",
+        "avg_dist": "18.79",
+        "hour_rank": "0.266666666666667"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95141,60.17918]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Hakaniemen kauppahalli 1",
+        "time_interval": "2019-08-01 17:00:00",
+        "n_people": "4",
+        "avg_dist": "21.87",
+        "hour_rank": "0.660714285714286"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95141,60.17918]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Hakaniemen kauppahalli 1",
+        "time_interval": "2019-08-01 18:00:00",
+        "n_people": "6",
+        "avg_dist": "20.28",
+        "hour_rank": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95141,60.17918]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Hakaniemen kauppahalli 1",
+        "time_interval": "2019-08-01 19:00:00",
+        "n_people": "4",
+        "avg_dist": "16.1",
+        "hour_rank": "0.793103448275862"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95141,60.17918]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Hakaniemen kauppahalli 1",
+        "time_interval": "2019-08-01 20:00:00",
+        "n_people": "4",
+        "avg_dist": "18.095",
+        "hour_rank": "0.833333333333333"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95141,60.17918]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Hakaniemen kauppahalli 1",
+        "time_interval": "2019-08-01 21:00:00",
+        "n_people": "4",
+        "avg_dist": "17.4",
+        "hour_rank": "0.857142857142857"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95141,60.17918]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Hakaniemen kauppahalli 1",
+        "time_interval": "2019-08-01 22:00:00",
+        "n_people": "3",
+        "avg_dist": "16.1",
+        "hour_rank": "0.416666666666667"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95141,60.17918]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Hakaniemen kauppahalli 1",
+        "time_interval": "2019-08-01 23:00:00",
+        "n_people": "4",
+        "avg_dist": "17.4",
+        "hour_rank": "0.842105263157895"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95141,60.17918]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Hakaniemen kauppahalli 2",
+        "time_interval": "2019-08-01 00:00:00",
+        "n_people": "2",
+        "avg_dist": "17.4",
+        "hour_rank": "0.150943396226415"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95181,60.17919]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Hakaniemen kauppahalli 2",
+        "time_interval": "2019-08-01 01:00:00",
+        "n_people": "2",
+        "avg_dist": "17.4",
+        "hour_rank": "0.133333333333333"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95181,60.17919]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Hakaniemen kauppahalli 2",
+        "time_interval": "2019-08-01 02:00:00",
+        "n_people": "2",
+        "avg_dist": "17.4",
+        "hour_rank": "0.109090909090909"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95181,60.17919]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Hakaniemen kauppahalli 2",
+        "time_interval": "2019-08-01 03:00:00",
+        "n_people": "2",
+        "avg_dist": "17.4",
+        "hour_rank": "0.137254901960784"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95181,60.17919]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Hakaniemen kauppahalli 2",
+        "time_interval": "2019-08-01 04:00:00",
+        "n_people": "2",
+        "avg_dist": "20.28",
+        "hour_rank": "0.188679245283019"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95181,60.17919]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Hakaniemen kauppahalli 2",
+        "time_interval": "2019-08-01 05:00:00",
+        "n_people": "10",
+        "avg_dist": "12.69",
+        "hour_rank": "0.928571428571429"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95181,60.17919]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Hakaniemen kauppahalli 2",
+        "time_interval": "2019-08-01 06:00:00",
+        "n_people": "18",
+        "avg_dist": "9.12",
+        "hour_rank": "0.852459016393443"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95181,60.17919]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Hakaniemen kauppahalli 2",
+        "time_interval": "2019-08-01 07:00:00",
+        "n_people": "25",
+        "avg_dist": "9.92",
+        "hour_rank": "0.825396825396825"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95181,60.17919]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Hakaniemen kauppahalli 2",
+        "time_interval": "2019-08-01 08:00:00",
+        "n_people": "25",
+        "avg_dist": "12.69",
+        "hour_rank": "0.603174603174603"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95181,60.17919]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Hakaniemen kauppahalli 2",
+        "time_interval": "2019-08-01 09:00:00",
+        "n_people": "60",
+        "avg_dist": "10.78",
+        "hour_rank": "0.952380952380952"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95181,60.17919]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Hakaniemen kauppahalli 2",
+        "time_interval": "2019-08-01 10:00:00",
+        "n_people": "31",
+        "avg_dist": "14.89",
+        "hour_rank": "0.578125"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95181,60.17919]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Hakaniemen kauppahalli 2",
+        "time_interval": "2019-08-01 11:00:00",
+        "n_people": "45",
+        "avg_dist": "11.7",
+        "hour_rank": "0.953125"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95181,60.17919]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Hakaniemen kauppahalli 2",
+        "time_interval": "2019-08-01 12:00:00",
+        "n_people": "12",
+        "avg_dist": "13.75",
+        "hour_rank": "0.387096774193548"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95181,60.17919]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Hakaniemen kauppahalli 2",
+        "time_interval": "2019-08-01 13:00:00",
+        "n_people": "25",
+        "avg_dist": "10.78",
+        "hour_rank": "0.625"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95181,60.17919]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Hakaniemen kauppahalli 2",
+        "time_interval": "2019-08-01 14:00:00",
+        "n_people": "20",
+        "avg_dist": "14.89",
+        "hour_rank": "0.666666666666667"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95181,60.17919]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Hakaniemen kauppahalli 2",
+        "time_interval": "2019-08-01 15:00:00",
+        "n_people": "11",
+        "avg_dist": "16.1",
+        "hour_rank": "0.603448275862069"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95181,60.17919]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Hakaniemen kauppahalli 2",
+        "time_interval": "2019-08-01 16:00:00",
+        "n_people": "2",
+        "avg_dist": "20.33",
+        "hour_rank": "0.225806451612903"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95181,60.17919]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Hakaniemen kauppahalli 2",
+        "time_interval": "2019-08-01 17:00:00",
+        "n_people": "2",
+        "avg_dist": "16.1",
+        "hour_rank": "0.140350877192982"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95181,60.17919]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Hakaniemen kauppahalli 2",
+        "time_interval": "2019-08-01 18:00:00",
+        "n_people": "2",
+        "avg_dist": "19.535",
+        "hour_rank": "0.254237288135593"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95181,60.17919]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Hakaniemen kauppahalli 2",
+        "time_interval": "2019-08-01 19:00:00",
+        "n_people": "2",
+        "avg_dist": "17.4",
+        "hour_rank": "0.115384615384615"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95181,60.17919]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Hakaniemen kauppahalli 2",
+        "time_interval": "2019-08-01 20:00:00",
+        "n_people": "2",
+        "avg_dist": "17.4",
+        "hour_rank": "0.229166666666667"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95181,60.17919]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Hakaniemen kauppahalli 2",
+        "time_interval": "2019-08-01 21:00:00",
+        "n_people": "2",
+        "avg_dist": "21.175",
+        "hour_rank": "0.188679245283019"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95181,60.17919]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Hakaniemen kauppahalli 2",
+        "time_interval": "2019-08-01 22:00:00",
+        "n_people": "2",
+        "avg_dist": "18.79",
+        "hour_rank": "0.192307692307692"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95181,60.17919]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Hakaniemen kauppahalli 2",
+        "time_interval": "2019-08-01 23:00:00",
+        "n_people": "2",
+        "avg_dist": "18.79",
+        "hour_rank": "0.0943396226415094"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95181,60.17919]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Hernesaari LHB",
+        "time_interval": "2019-08-01 00:00:00",
+        "n_people": "1",
+        "avg_dist": "31.5",
+        "hour_rank": "0.0232558139534884"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.92329,60.15133]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Hernesaari LHB",
+        "time_interval": "2019-08-01 05:00:00",
+        "n_people": "1",
+        "avg_dist": "31.5",
+        "hour_rank": "0.02"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.92329,60.15133]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Hernesaari LHB",
+        "time_interval": "2019-08-01 06:00:00",
+        "n_people": "3",
+        "avg_dist": "20.28",
+        "hour_rank": "0.547169811320755"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.92329,60.15133]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Hernesaari LHB",
+        "time_interval": "2019-08-01 07:00:00",
+        "n_people": "9",
+        "avg_dist": "18.79",
+        "hour_rank": "0.75"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.92329,60.15133]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Hernesaari LHB",
+        "time_interval": "2019-08-01 08:00:00",
+        "n_people": "5",
+        "avg_dist": "21.075",
+        "hour_rank": "0.527272727272727"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.92329,60.15133]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Hernesaari LHB",
+        "time_interval": "2019-08-01 09:00:00",
+        "n_people": "17",
+        "avg_dist": "20.28",
+        "hour_rank": "0.884615384615385"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.92329,60.15133]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Hernesaari LHB",
+        "time_interval": "2019-08-01 10:00:00",
+        "n_people": "5",
+        "avg_dist": "22.715",
+        "hour_rank": "0.490196078431373"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.92329,60.15133]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Hernesaari LHB",
+        "time_interval": "2019-08-01 11:00:00",
+        "n_people": "5",
+        "avg_dist": "25.36",
+        "hour_rank": "0.62962962962963"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.92329,60.15133]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Hernesaari LHB",
+        "time_interval": "2019-08-01 12:00:00",
+        "n_people": "4",
+        "avg_dist": "25.36",
+        "hour_rank": "0.490566037735849"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.92329,60.15133]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Hernesaari LHB",
+        "time_interval": "2019-08-01 13:00:00",
+        "n_people": "6",
+        "avg_dist": "27.28",
+        "hour_rank": "0.543859649122807"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.92329,60.15133]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Hernesaari LHB",
+        "time_interval": "2019-08-01 14:00:00",
+        "n_people": "3",
+        "avg_dist": "20.28",
+        "hour_rank": "0.411764705882353"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.92329,60.15133]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Hernesaari LHB",
+        "time_interval": "2019-08-01 15:00:00",
+        "n_people": "2",
+        "avg_dist": "23.56",
+        "hour_rank": "0.22"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.92329,60.15133]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Hernesaari LHB",
+        "time_interval": "2019-08-01 16:00:00",
+        "n_people": "18",
+        "avg_dist": "23.56",
+        "hour_rank": "0.9375"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.92329,60.15133]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Hernesaari LHB",
+        "time_interval": "2019-08-01 17:00:00",
+        "n_people": "3",
+        "avg_dist": "18.79",
+        "hour_rank": "0.711111111111111"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.92329,60.15133]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Hernesaari LHB",
+        "time_interval": "2019-08-01 18:00:00",
+        "n_people": "4",
+        "avg_dist": "25.36",
+        "hour_rank": "0.765957446808511"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.92329,60.15133]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Hernesaari LHB",
+        "time_interval": "2019-08-01 19:00:00",
+        "n_people": "3",
+        "avg_dist": "18.79",
+        "hour_rank": "0.75"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.92329,60.15133]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Hernesaari LHB",
+        "time_interval": "2019-08-01 20:00:00",
+        "n_people": "4",
+        "avg_dist": "10.35",
+        "hour_rank": "0.872340425531915"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.92329,60.15133]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Hernesaari LHB",
+        "time_interval": "2019-08-01 21:00:00",
+        "n_people": "3",
+        "avg_dist": "24.46",
+        "hour_rank": "0.791666666666667"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.92329,60.15133]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Hernesaari LHB",
+        "time_interval": "2019-08-01 22:00:00",
+        "n_people": "1",
+        "avg_dist": "18.79",
+        "hour_rank": "0.0232558139534884"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.92329,60.15133]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Hernesaari LHC",
+        "time_interval": "2019-08-01 00:00:00",
+        "n_people": "5",
+        "avg_dist": "5.175",
+        "hour_rank": "0.682539682539683"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.92138,60.14951]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Hernesaari LHC",
+        "time_interval": "2019-08-01 01:00:00",
+        "n_people": "5",
+        "avg_dist": "5.41",
+        "hour_rank": "0.746031746031746"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.92138,60.14951]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Hernesaari LHC",
+        "time_interval": "2019-08-01 02:00:00",
+        "n_people": "5",
+        "avg_dist": "4.94",
+        "hour_rank": "0.734375"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.92138,60.14951]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Hernesaari LHC",
+        "time_interval": "2019-08-01 03:00:00",
+        "n_people": "5",
+        "avg_dist": "5.175",
+        "hour_rank": "0.634920634920635"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.92138,60.14951]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Hernesaari LHC",
+        "time_interval": "2019-08-01 04:00:00",
+        "n_people": "8",
+        "avg_dist": "6.185",
+        "hour_rank": "0.75"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.92138,60.14951]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Hernesaari LHC",
+        "time_interval": "2019-08-01 05:00:00",
+        "n_people": "7",
+        "avg_dist": "5.41",
+        "hour_rank": "0.483333333333333"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.92138,60.14951]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Hernesaari LHC",
+        "time_interval": "2019-08-01 06:00:00",
+        "n_people": "10",
+        "avg_dist": "8.38",
+        "hour_rank": "0.453125"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.92138,60.14951]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Hernesaari LHC",
+        "time_interval": "2019-08-01 07:00:00",
+        "n_people": "10",
+        "avg_dist": "8.38",
+        "hour_rank": "0.265625"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.92138,60.14951]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Hernesaari LHC",
+        "time_interval": "2019-08-01 08:00:00",
+        "n_people": "11",
+        "avg_dist": "8.38",
+        "hour_rank": "0.28125"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.92138,60.14951]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Hernesaari LHC",
+        "time_interval": "2019-08-01 09:00:00",
+        "n_people": "10",
+        "avg_dist": "9.12",
+        "hour_rank": "0.265625"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.92138,60.14951]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Hernesaari LHC",
+        "time_interval": "2019-08-01 10:00:00",
+        "n_people": "17",
+        "avg_dist": "12.195",
+        "hour_rank": "0.34375"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.92138,60.14951]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Hernesaari LHC",
+        "time_interval": "2019-08-01 11:00:00",
+        "n_people": "7",
+        "avg_dist": "5.91",
+        "hour_rank": "0.245901639344262"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.92138,60.14951]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Hernesaari LHC",
+        "time_interval": "2019-08-01 12:00:00",
+        "n_people": "10",
+        "avg_dist": "10.78",
+        "hour_rank": "0.258064516129032"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.92138,60.14951]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Hernesaari LHC",
+        "time_interval": "2019-08-01 13:00:00",
+        "n_people": "18",
+        "avg_dist": "12.69",
+        "hour_rank": "0.274193548387097"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.92138,60.14951]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Hernesaari LHC",
+        "time_interval": "2019-08-01 14:00:00",
+        "n_people": "5",
+        "avg_dist": "9.92",
+        "hour_rank": "0.17741935483871"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.92138,60.14951]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Hernesaari LHC",
+        "time_interval": "2019-08-01 15:00:00",
+        "n_people": "8",
+        "avg_dist": "11.7",
+        "hour_rank": "0.516129032258065"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.92138,60.14951]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Hernesaari LHC",
+        "time_interval": "2019-08-01 16:00:00",
+        "n_people": "48",
+        "avg_dist": "17.4",
+        "hour_rank": "0.919354838709677"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.92138,60.14951]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Hernesaari LHC",
+        "time_interval": "2019-08-01 17:00:00",
+        "n_people": "7",
+        "avg_dist": "9.92",
+        "hour_rank": "0.634920634920635"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.92138,60.14951]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Hernesaari LHC",
+        "time_interval": "2019-08-01 18:00:00",
+        "n_people": "9",
+        "avg_dist": "16.75",
+        "hour_rank": "0.825396825396825"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.92138,60.14951]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Hernesaari LHC",
+        "time_interval": "2019-08-01 19:00:00",
+        "n_people": "7",
+        "avg_dist": "11.7",
+        "hour_rank": "0.698412698412698"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.92138,60.14951]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Hernesaari LHC",
+        "time_interval": "2019-08-01 20:00:00",
+        "n_people": "3",
+        "avg_dist": "7.05",
+        "hour_rank": "0.3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.92138,60.14951]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Hernesaari LHC",
+        "time_interval": "2019-08-01 21:00:00",
+        "n_people": "3",
+        "avg_dist": "7.37",
+        "hour_rank": "0.426229508196721"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.92138,60.14951]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Hernesaari LHC",
+        "time_interval": "2019-08-01 22:00:00",
+        "n_people": "3",
+        "avg_dist": "7.69",
+        "hour_rank": "0.34375"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.92138,60.14951]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Hernesaari LHC",
+        "time_interval": "2019-08-01 23:00:00",
+        "n_people": "3",
+        "avg_dist": "7.05",
+        "hour_rank": "0.333333333333333"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.92138,60.14951]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Hernesaari LHD",
+        "time_interval": "2019-08-01 00:00:00",
+        "n_people": "3",
+        "avg_dist": "20.28",
+        "hour_rank": "0.295081967213115"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.922,60.14699]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Hernesaari LHD",
+        "time_interval": "2019-08-01 01:00:00",
+        "n_people": "2",
+        "avg_dist": "18.79",
+        "hour_rank": "0.140625"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.922,60.14699]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Hernesaari LHD",
+        "time_interval": "2019-08-01 02:00:00",
+        "n_people": "2",
+        "avg_dist": "20.28",
+        "hour_rank": "0.125"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.922,60.14699]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Hernesaari LHD",
+        "time_interval": "2019-08-01 03:00:00",
+        "n_people": "2",
+        "avg_dist": "18.79",
+        "hour_rank": "0.0634920634920635"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.922,60.14699]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Hernesaari LHD",
+        "time_interval": "2019-08-01 04:00:00",
+        "n_people": "5",
+        "avg_dist": "23.56",
+        "hour_rank": "0.234375"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.922,60.14699]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Hernesaari LHD",
+        "time_interval": "2019-08-01 05:00:00",
+        "n_people": "4",
+        "avg_dist": "18.79",
+        "hour_rank": "0.222222222222222"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.922,60.14699]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Hernesaari LHD",
+        "time_interval": "2019-08-01 06:00:00",
+        "n_people": "5",
+        "avg_dist": "18.79",
+        "hour_rank": "0.142857142857143"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.922,60.14699]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Hernesaari LHD",
+        "time_interval": "2019-08-01 07:00:00",
+        "n_people": "12",
+        "avg_dist": "18.79",
+        "hour_rank": "0.15625"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.922,60.14699]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Hernesaari LHD",
+        "time_interval": "2019-08-01 08:00:00",
+        "n_people": "13",
+        "avg_dist": "22.715",
+        "hour_rank": "0.25"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.922,60.14699]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Hernesaari LHD",
+        "time_interval": "2019-08-01 09:00:00",
+        "n_people": "7",
+        "avg_dist": "25.36",
+        "hour_rank": "0.09375"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.922,60.14699]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Hernesaari LHD",
+        "time_interval": "2019-08-01 10:00:00",
+        "n_people": "12",
+        "avg_dist": "20.28",
+        "hour_rank": "0.25"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.922,60.14699]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Hernesaari LHD",
+        "time_interval": "2019-08-01 11:00:00",
+        "n_people": "7",
+        "avg_dist": "12.69",
+        "hour_rank": "0.09375"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.922,60.14699]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Hernesaari LHD",
+        "time_interval": "2019-08-01 12:00:00",
+        "n_people": "7",
+        "avg_dist": "29.32",
+        "hour_rank": "0.0952380952380952"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.922,60.14699]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Hernesaari LHD",
+        "time_interval": "2019-08-01 13:00:00",
+        "n_people": "15",
+        "avg_dist": "27.28",
+        "hour_rank": "0.203125"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.922,60.14699]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Hernesaari LHD",
+        "time_interval": "2019-08-01 14:00:00",
+        "n_people": "13",
+        "avg_dist": "21.87",
+        "hour_rank": "0.234375"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.922,60.14699]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Hernesaari LHD",
+        "time_interval": "2019-08-01 15:00:00",
+        "n_people": "11",
+        "avg_dist": "23.56",
+        "hour_rank": "0.46875"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.922,60.14699]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Hernesaari LHD",
+        "time_interval": "2019-08-01 16:00:00",
+        "n_people": "26",
+        "avg_dist": "20.28",
+        "hour_rank": "0.953125"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.922,60.14699]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Hernesaari LHD",
+        "time_interval": "2019-08-01 17:00:00",
+        "n_people": "2",
+        "avg_dist": "23.56",
+        "hour_rank": "0.0483870967741935"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.922,60.14699]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Hernesaari LHD",
+        "time_interval": "2019-08-01 18:00:00",
+        "n_people": "2",
+        "avg_dist": "23.56",
+        "hour_rank": "0.015625"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.922,60.14699]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Hernesaari LHD",
+        "time_interval": "2019-08-01 19:00:00",
+        "n_people": "4",
+        "avg_dist": "23.56",
+        "hour_rank": "0.171875"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.922,60.14699]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Hernesaari LHD",
+        "time_interval": "2019-08-01 20:00:00",
+        "n_people": "3",
+        "avg_dist": "21.87",
+        "hour_rank": "0.180327868852459"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.922,60.14699]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Hernesaari LHD",
+        "time_interval": "2019-08-01 21:00:00",
+        "n_people": "1",
+        "avg_dist": "21.87",
+        "hour_rank": "0.0158730158730159"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.922,60.14699]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Hernesaari LHD",
+        "time_interval": "2019-08-01 22:00:00",
+        "n_people": "2",
+        "avg_dist": "25.36",
+        "hour_rank": "0.046875"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.922,60.14699]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Hernesaari LHD",
+        "time_interval": "2019-08-01 23:00:00",
+        "n_people": "3",
+        "avg_dist": "24.46",
+        "hour_rank": "0.19047619047619"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.922,60.14699]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Kaivopuiston ranta",
+        "time_interval": "2019-08-01 00:00:00",
+        "n_people": "6",
+        "avg_dist": "27.28",
+        "hour_rank": "0.588235294117647"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95595,60.1538]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Kaivopuiston ranta",
+        "time_interval": "2019-08-01 01:00:00",
+        "n_people": "6",
+        "avg_dist": "25.36",
+        "hour_rank": "0.705882352941177"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95595,60.1538]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Kaivopuiston ranta",
+        "time_interval": "2019-08-01 02:00:00",
+        "n_people": "6",
+        "avg_dist": "27.28",
+        "hour_rank": "0.909090909090909"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95595,60.1538]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Kaivopuiston ranta",
+        "time_interval": "2019-08-01 03:00:00",
+        "n_people": "7",
+        "avg_dist": "23.56",
+        "hour_rank": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95595,60.1538]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Kaivopuiston ranta",
+        "time_interval": "2019-08-01 04:00:00",
+        "n_people": "9",
+        "avg_dist": "26.32",
+        "hour_rank": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95595,60.1538]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Kaivopuiston ranta",
+        "time_interval": "2019-08-01 05:00:00",
+        "n_people": "7",
+        "avg_dist": "27.28",
+        "hour_rank": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95595,60.1538]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Kaivopuiston ranta",
+        "time_interval": "2019-08-01 06:00:00",
+        "n_people": "8",
+        "avg_dist": "25.36",
+        "hour_rank": "0.962962962962963"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95595,60.1538]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Kaivopuiston ranta",
+        "time_interval": "2019-08-01 07:00:00",
+        "n_people": "10",
+        "avg_dist": "29.32",
+        "hour_rank": "0.945454545454545"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95595,60.1538]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Kaivopuiston ranta",
+        "time_interval": "2019-08-01 08:00:00",
+        "n_people": "13",
+        "avg_dist": "29.32",
+        "hour_rank": "0.948275862068966"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95595,60.1538]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Kaivopuiston ranta",
+        "time_interval": "2019-08-01 09:00:00",
+        "n_people": "15",
+        "avg_dist": "25.36",
+        "hour_rank": "0.836363636363636"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95595,60.1538]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Kaivopuiston ranta",
+        "time_interval": "2019-08-01 10:00:00",
+        "n_people": "21",
+        "avg_dist": "21.87",
+        "hour_rank": "0.916666666666667"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95595,60.1538]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Kaivopuiston ranta",
+        "time_interval": "2019-08-01 11:00:00",
+        "n_people": "14",
+        "avg_dist": "18.79",
+        "hour_rank": "0.683333333333333"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95595,60.1538]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Kaivopuiston ranta",
+        "time_interval": "2019-08-01 12:00:00",
+        "n_people": "21",
+        "avg_dist": "23.56",
+        "hour_rank": "0.8"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95595,60.1538]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Kaivopuiston ranta",
+        "time_interval": "2019-08-01 13:00:00",
+        "n_people": "23",
+        "avg_dist": "26.32",
+        "hour_rank": "0.830508474576271"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95595,60.1538]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Kaivopuiston ranta",
+        "time_interval": "2019-08-01 14:00:00",
+        "n_people": "26",
+        "avg_dist": "13.75",
+        "hour_rank": "0.85"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95595,60.1538]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Kaivopuiston ranta",
+        "time_interval": "2019-08-01 15:00:00",
+        "n_people": "38",
+        "avg_dist": "18.79",
+        "hour_rank": "0.9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95595,60.1538]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Kaivopuiston ranta",
+        "time_interval": "2019-08-01 16:00:00",
+        "n_people": "36",
+        "avg_dist": "23.56",
+        "hour_rank": "0.85"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95595,60.1538]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Kaivopuiston ranta",
+        "time_interval": "2019-08-01 17:00:00",
+        "n_people": "39",
+        "avg_dist": "20.28",
+        "hour_rank": "0.870967741935484"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95595,60.1538]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Kaivopuiston ranta",
+        "time_interval": "2019-08-01 18:00:00",
+        "n_people": "34",
+        "avg_dist": "20.28",
+        "hour_rank": "0.868852459016393"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95595,60.1538]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Kaivopuiston ranta",
+        "time_interval": "2019-08-01 19:00:00",
+        "n_people": "25",
+        "avg_dist": "20.28",
+        "hour_rank": "0.741379310344828"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95595,60.1538]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Kaivopuiston ranta",
+        "time_interval": "2019-08-01 20:00:00",
+        "n_people": "12",
+        "avg_dist": "20.28",
+        "hour_rank": "0.56"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95595,60.1538]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Kaivopuiston ranta",
+        "time_interval": "2019-08-01 21:00:00",
+        "n_people": "3",
+        "avg_dist": "23.56",
+        "hour_rank": "0.395833333333333"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95595,60.1538]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Kaivopuiston ranta",
+        "time_interval": "2019-08-01 22:00:00",
+        "n_people": "3",
+        "avg_dist": "23.56",
+        "hour_rank": "0.466666666666667"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95595,60.1538]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Kaivopuiston ranta",
+        "time_interval": "2019-08-01 23:00:00",
+        "n_people": "3",
+        "avg_dist": "23.56",
+        "hour_rank": "0.525"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95595,60.1538]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Katajanokan laituri",
+        "time_interval": "2019-08-01 00:00:00",
+        "n_people": "10",
+        "avg_dist": "21.87",
+        "hour_rank": "0.7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95957,60.16629]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Katajanokan laituri",
+        "time_interval": "2019-08-01 01:00:00",
+        "n_people": "11",
+        "avg_dist": "21.87",
+        "hour_rank": "0.85"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95957,60.16629]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Katajanokan laituri",
+        "time_interval": "2019-08-01 02:00:00",
+        "n_people": "14",
+        "avg_dist": "23.56",
+        "hour_rank": "0.916666666666667"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95957,60.16629]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Katajanokan laituri",
+        "time_interval": "2019-08-01 03:00:00",
+        "n_people": "13",
+        "avg_dist": "25.36",
+        "hour_rank": "0.916666666666667"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95957,60.16629]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Katajanokan laituri",
+        "time_interval": "2019-08-01 04:00:00",
+        "n_people": "16",
+        "avg_dist": "20.28",
+        "hour_rank": "0.9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95957,60.16629]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Katajanokan laituri",
+        "time_interval": "2019-08-01 05:00:00",
+        "n_people": "29",
+        "avg_dist": "16.1",
+        "hour_rank": "0.9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95957,60.16629]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Katajanokan laituri",
+        "time_interval": "2019-08-01 06:00:00",
+        "n_people": "54",
+        "avg_dist": "14.89",
+        "hour_rank": "0.95"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95957,60.16629]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Katajanokan laituri",
+        "time_interval": "2019-08-01 07:00:00",
+        "n_people": "59",
+        "avg_dist": "17.4",
+        "hour_rank": "0.916666666666667"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95957,60.16629]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Katajanokan laituri",
+        "time_interval": "2019-08-01 08:00:00",
+        "n_people": "31",
+        "avg_dist": "17.4",
+        "hour_rank": "0.733333333333333"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95957,60.16629]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Katajanokan laituri",
+        "time_interval": "2019-08-01 09:00:00",
+        "n_people": "39",
+        "avg_dist": "14.89",
+        "hour_rank": "0.75"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95957,60.16629]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Katajanokan laituri",
+        "time_interval": "2019-08-01 10:00:00",
+        "n_people": "30",
+        "avg_dist": "16.1",
+        "hour_rank": "0.666666666666667"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95957,60.16629]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Katajanokan laituri",
+        "time_interval": "2019-08-01 11:00:00",
+        "n_people": "41",
+        "avg_dist": "14.89",
+        "hour_rank": "0.883333333333333"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95957,60.16629]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Katajanokan laituri",
+        "time_interval": "2019-08-01 12:00:00",
+        "n_people": "43",
+        "avg_dist": "16.1",
+        "hour_rank": "0.883333333333333"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95957,60.16629]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Katajanokan laituri",
+        "time_interval": "2019-08-01 13:00:00",
+        "n_people": "49",
+        "avg_dist": "14.89",
+        "hour_rank": "0.948275862068966"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95957,60.16629]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Katajanokan laituri",
+        "time_interval": "2019-08-01 14:00:00",
+        "n_people": "45",
+        "avg_dist": "17.4",
+        "hour_rank": "0.96551724137931"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95957,60.16629]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Katajanokan laituri",
+        "time_interval": "2019-08-01 15:00:00",
+        "n_people": "29",
+        "avg_dist": "18.79",
+        "hour_rank": "0.741379310344828"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95957,60.16629]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Katajanokan laituri",
+        "time_interval": "2019-08-01 16:00:00",
+        "n_people": "36",
+        "avg_dist": "16.1",
+        "hour_rank": "0.931034482758621"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95957,60.16629]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Katajanokan laituri",
+        "time_interval": "2019-08-01 17:00:00",
+        "n_people": "24",
+        "avg_dist": "21.075",
+        "hour_rank": "0.689655172413793"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95957,60.16629]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Katajanokan laituri",
+        "time_interval": "2019-08-01 18:00:00",
+        "n_people": "14",
+        "avg_dist": "20.28",
+        "hour_rank": "0.466666666666667"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95957,60.16629]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Katajanokan laituri",
+        "time_interval": "2019-08-01 19:00:00",
+        "n_people": "12",
+        "avg_dist": "20.28",
+        "hour_rank": "0.516666666666667"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95957,60.16629]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Katajanokan laituri",
+        "time_interval": "2019-08-01 20:00:00",
+        "n_people": "10",
+        "avg_dist": "20.28",
+        "hour_rank": "0.5"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95957,60.16629]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Katajanokan laituri",
+        "time_interval": "2019-08-01 21:00:00",
+        "n_people": "9",
+        "avg_dist": "20.28",
+        "hour_rank": "0.566666666666667"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95957,60.16629]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Katajanokan laituri",
+        "time_interval": "2019-08-01 22:00:00",
+        "n_people": "10",
+        "avg_dist": "20.28",
+        "hour_rank": "0.733333333333333"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95957,60.16629]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Katajanokan laituri",
+        "time_interval": "2019-08-01 23:00:00",
+        "n_people": "10",
+        "avg_dist": "20.28",
+        "hour_rank": "0.716666666666667"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95957,60.16629]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Katajanokan laituri 2",
+        "time_interval": "2019-08-01 00:00:00",
+        "n_people": "6",
+        "avg_dist": "18.79",
+        "hour_rank": "0.968253968253968"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.97323,60.16448]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Katajanokan laituri 2",
+        "time_interval": "2019-08-01 01:00:00",
+        "n_people": "6",
+        "avg_dist": "20.28",
+        "hour_rank": "0.96875"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.97323,60.16448]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Katajanokan laituri 2",
+        "time_interval": "2019-08-01 02:00:00",
+        "n_people": "7",
+        "avg_dist": "21.87",
+        "hour_rank": "0.968253968253968"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.97323,60.16448]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Katajanokan laituri 2",
+        "time_interval": "2019-08-01 03:00:00",
+        "n_people": "6",
+        "avg_dist": "20.28",
+        "hour_rank": "0.968253968253968"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.97323,60.16448]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Katajanokan laituri 2",
+        "time_interval": "2019-08-01 04:00:00",
+        "n_people": "5",
+        "avg_dist": "17.4",
+        "hour_rank": "0.765625"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.97323,60.16448]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Katajanokan laituri 2",
+        "time_interval": "2019-08-01 05:00:00",
+        "n_people": "3",
+        "avg_dist": "18.79",
+        "hour_rank": "0.333333333333333"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.97323,60.16448]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Katajanokan laituri 2",
+        "time_interval": "2019-08-01 06:00:00",
+        "n_people": "14",
+        "avg_dist": "16.1",
+        "hour_rank": "0.8125"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.97323,60.16448]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Katajanokan laituri 2",
+        "time_interval": "2019-08-01 07:00:00",
+        "n_people": "21",
+        "avg_dist": "18.79",
+        "hour_rank": "0.578125"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.97323,60.16448]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Katajanokan laituri 2",
+        "time_interval": "2019-08-01 08:00:00",
+        "n_people": "54",
+        "avg_dist": "13.75",
+        "hour_rank": "0.984126984126984"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.97323,60.16448]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Katajanokan laituri 2",
+        "time_interval": "2019-08-01 09:00:00",
+        "n_people": "25",
+        "avg_dist": "13.75",
+        "hour_rank": "0.9375"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.97323,60.16448]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Katajanokan laituri 2",
+        "time_interval": "2019-08-01 10:00:00",
+        "n_people": "27",
+        "avg_dist": "17.4",
+        "hour_rank": "0.890625"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.97323,60.16448]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Katajanokan laituri 2",
+        "time_interval": "2019-08-01 11:00:00",
+        "n_people": "18",
+        "avg_dist": "18.79",
+        "hour_rank": "0.796875"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.97323,60.16448]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Katajanokan laituri 2",
+        "time_interval": "2019-08-01 12:00:00",
+        "n_people": "14",
+        "avg_dist": "18.79",
+        "hour_rank": "0.765625"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.97323,60.16448]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Katajanokan laituri 2",
+        "time_interval": "2019-08-01 13:00:00",
+        "n_people": "19",
+        "avg_dist": "18.79",
+        "hour_rank": "0.640625"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.97323,60.16448]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Katajanokan laituri 2",
+        "time_interval": "2019-08-01 14:00:00",
+        "n_people": "69",
+        "avg_dist": "14.89",
+        "hour_rank": "0.9375"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.97323,60.16448]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Katajanokan laituri 2",
+        "time_interval": "2019-08-01 15:00:00",
+        "n_people": "31",
+        "avg_dist": "17.4",
+        "hour_rank": "0.9375"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.97323,60.16448]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Katajanokan laituri 2",
+        "time_interval": "2019-08-01 16:00:00",
+        "n_people": "10",
+        "avg_dist": "23.56",
+        "hour_rank": "0.476190476190476"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.97323,60.16448]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Katajanokan laituri 2",
+        "time_interval": "2019-08-01 17:00:00",
+        "n_people": "14",
+        "avg_dist": "18.79",
+        "hour_rank": "0.578125"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.97323,60.16448]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Katajanokan laituri 2",
+        "time_interval": "2019-08-01 18:00:00",
+        "n_people": "8",
+        "avg_dist": "23.56",
+        "hour_rank": "0.625"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.97323,60.16448]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Katajanokan laituri 2",
+        "time_interval": "2019-08-01 19:00:00",
+        "n_people": "9",
+        "avg_dist": "23.56",
+        "hour_rank": "0.875"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.97323,60.16448]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Katajanokan laituri 2",
+        "time_interval": "2019-08-01 20:00:00",
+        "n_people": "4",
+        "avg_dist": "21.87",
+        "hour_rank": "0.666666666666667"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.97323,60.16448]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Katajanokan laituri 2",
+        "time_interval": "2019-08-01 21:00:00",
+        "n_people": "7",
+        "avg_dist": "23.56",
+        "hour_rank": "0.967741935483871"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.97323,60.16448]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Katajanokan laituri 2",
+        "time_interval": "2019-08-01 22:00:00",
+        "n_people": "5",
+        "avg_dist": "20.28",
+        "hour_rank": "0.84375"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.97323,60.16448]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Katajanokan laituri 2",
+        "time_interval": "2019-08-01 23:00:00",
+        "n_people": "6",
+        "avg_dist": "21.87",
+        "hour_rank": "0.984126984126984"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.97323,60.16448]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Katajanokan terminaali",
+        "time_interval": "2019-08-01 06:00:00",
+        "n_people": "7",
+        "avg_dist": "9.92",
+        "hour_rank": "0.805555555555556"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.96846,60.1638]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Katajanokan terminaali",
+        "time_interval": "2019-08-01 07:00:00",
+        "n_people": "18",
+        "avg_dist": "23.56",
+        "hour_rank": "0.841269841269841"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.96846,60.1638]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Katajanokan terminaali",
+        "time_interval": "2019-08-01 08:00:00",
+        "n_people": "22",
+        "avg_dist": "21.87",
+        "hour_rank": "0.954545454545455"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.96846,60.1638]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Katajanokan terminaali",
+        "time_interval": "2019-08-01 09:00:00",
+        "n_people": "1",
+        "avg_dist": "33.81",
+        "hour_rank": "0.032258064516129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.96846,60.1638]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Katajanokan terminaali",
+        "time_interval": "2019-08-01 10:00:00",
+        "n_people": "1",
+        "avg_dist": "33.81",
+        "hour_rank": "0.024390243902439"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.96846,60.1638]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Katajanokan terminaali",
+        "time_interval": "2019-08-01 12:00:00",
+        "n_people": "4",
+        "avg_dist": "24.46",
+        "hour_rank": "0.510204081632653"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.96846,60.1638]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Katajanokan terminaali",
+        "time_interval": "2019-08-01 13:00:00",
+        "n_people": "5",
+        "avg_dist": "21.075",
+        "hour_rank": "0.403225806451613"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.96846,60.1638]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Katajanokan terminaali",
+        "time_interval": "2019-08-01 14:00:00",
+        "n_people": "29",
+        "avg_dist": "16.1",
+        "hour_rank": "0.833333333333333"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.96846,60.1638]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Katajanokan terminaali",
+        "time_interval": "2019-08-01 16:00:00",
+        "n_people": "1",
+        "avg_dist": "25.36",
+        "hour_rank": "0.0217391304347826"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.96846,60.1638]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Katajanokan terminaali",
+        "time_interval": "2019-08-01 17:00:00",
+        "n_people": "1",
+        "avg_dist": "29.32",
+        "hour_rank": "0.0188679245283019"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.96846,60.1638]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Katajanokan terminaali",
+        "time_interval": "2019-08-01 18:00:00",
+        "n_people": "42",
+        "avg_dist": "20.28",
+        "hour_rank": "0.84375"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.96846,60.1638]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Kauppatori",
+        "time_interval": "2019-08-01 00:00:00",
+        "n_people": "43",
+        "avg_dist": "17.4",
+        "hour_rank": "0.859375"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95415,60.16762]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Kauppatori",
+        "time_interval": "2019-08-01 01:00:00",
+        "n_people": "36",
+        "avg_dist": "14.89",
+        "hour_rank": "0.734375"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95415,60.16762]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Kauppatori",
+        "time_interval": "2019-08-01 02:00:00",
+        "n_people": "34",
+        "avg_dist": "16.1",
+        "hour_rank": "0.71875"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95415,60.16762]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Kauppatori",
+        "time_interval": "2019-08-01 03:00:00",
+        "n_people": "33",
+        "avg_dist": "14.89",
+        "hour_rank": "0.671875"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95415,60.16762]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Kauppatori",
+        "time_interval": "2019-08-01 04:00:00",
+        "n_people": "39",
+        "avg_dist": "17.4",
+        "hour_rank": "0.5625"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95415,60.16762]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Kauppatori",
+        "time_interval": "2019-08-01 05:00:00",
+        "n_people": "63",
+        "avg_dist": "14.89",
+        "hour_rank": "0.65625"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95415,60.16762]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Kauppatori",
+        "time_interval": "2019-08-01 06:00:00",
+        "n_people": "98",
+        "avg_dist": "14.89",
+        "hour_rank": "0.75"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95415,60.16762]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Kauppatori",
+        "time_interval": "2019-08-01 07:00:00",
+        "n_people": "125",
+        "avg_dist": "13.75",
+        "hour_rank": "0.8125"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95415,60.16762]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Kauppatori",
+        "time_interval": "2019-08-01 08:00:00",
+        "n_people": "158",
+        "avg_dist": "11.7",
+        "hour_rank": "0.8125"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95415,60.16762]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Kauppatori",
+        "time_interval": "2019-08-01 09:00:00",
+        "n_people": "165",
+        "avg_dist": "9.92",
+        "hour_rank": "0.693548387096774"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95415,60.16762]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Kauppatori",
+        "time_interval": "2019-08-01 10:00:00",
+        "n_people": "183",
+        "avg_dist": "10.78",
+        "hour_rank": "0.82258064516129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95415,60.16762]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Kauppatori",
+        "time_interval": "2019-08-01 11:00:00",
+        "n_people": "168",
+        "avg_dist": "10.78",
+        "hour_rank": "0.661290322580645"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95415,60.16762]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Kauppatori",
+        "time_interval": "2019-08-01 12:00:00",
+        "n_people": "153",
+        "avg_dist": "10.78",
+        "hour_rank": "0.661290322580645"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95415,60.16762]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Kauppatori",
+        "time_interval": "2019-08-01 13:00:00",
+        "n_people": "149",
+        "avg_dist": "10.78",
+        "hour_rank": "0.709677419354839"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95415,60.16762]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Kauppatori",
+        "time_interval": "2019-08-01 14:00:00",
+        "n_people": "160",
+        "avg_dist": "11.7",
+        "hour_rank": "0.935483870967742"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95415,60.16762]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Kauppatori",
+        "time_interval": "2019-08-01 15:00:00",
+        "n_people": "127",
+        "avg_dist": "11.7",
+        "hour_rank": "0.806451612903226"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95415,60.16762]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Kauppatori",
+        "time_interval": "2019-08-01 16:00:00",
+        "n_people": "119",
+        "avg_dist": "12.69",
+        "hour_rank": "0.758064516129032"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95415,60.16762]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Kauppatori",
+        "time_interval": "2019-08-01 17:00:00",
+        "n_people": "119",
+        "avg_dist": "14.89",
+        "hour_rank": "0.859375"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95415,60.16762]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Kauppatori",
+        "time_interval": "2019-08-01 18:00:00",
+        "n_people": "107",
+        "avg_dist": "13.75",
+        "hour_rank": "0.859375"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95415,60.16762]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Kauppatori",
+        "time_interval": "2019-08-01 19:00:00",
+        "n_people": "90",
+        "avg_dist": "16.1",
+        "hour_rank": "0.78125"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95415,60.16762]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Kauppatori",
+        "time_interval": "2019-08-01 20:00:00",
+        "n_people": "62",
+        "avg_dist": "14.89",
+        "hour_rank": "0.703125"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95415,60.16762]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Kauppatori",
+        "time_interval": "2019-08-01 21:00:00",
+        "n_people": "32",
+        "avg_dist": "17.4",
+        "hour_rank": "0.296875"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95415,60.16762]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Kauppatori",
+        "time_interval": "2019-08-01 22:00:00",
+        "n_people": "31",
+        "avg_dist": "18.79",
+        "hour_rank": "0.390625"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95415,60.16762]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Kauppatori",
+        "time_interval": "2019-08-01 23:00:00",
+        "n_people": "31",
+        "avg_dist": "14.89",
+        "hour_rank": "0.5"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95415,60.16762]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Lansiterminaali 1",
+        "time_interval": "2019-08-01 00:00:00",
+        "n_people": "3",
+        "avg_dist": "28.3",
+        "hour_rank": "0.259259259259259"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.9211,60.15432]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Lansiterminaali 1",
+        "time_interval": "2019-08-01 01:00:00",
+        "n_people": "3",
+        "avg_dist": "28.3",
+        "hour_rank": "0.264150943396226"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.9211,60.15432]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Lansiterminaali 1",
+        "time_interval": "2019-08-01 02:00:00",
+        "n_people": "2",
+        "avg_dist": "27.28",
+        "hour_rank": "0.153846153846154"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.9211,60.15432]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Lansiterminaali 1",
+        "time_interval": "2019-08-01 03:00:00",
+        "n_people": "4",
+        "avg_dist": "23.56",
+        "hour_rank": "0.333333333333333"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.9211,60.15432]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Lansiterminaali 1",
+        "time_interval": "2019-08-01 04:00:00",
+        "n_people": "2",
+        "avg_dist": "24.46",
+        "hour_rank": "0.115384615384615"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.9211,60.15432]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Lansiterminaali 1",
+        "time_interval": "2019-08-01 05:00:00",
+        "n_people": "11",
+        "avg_dist": "16.1",
+        "hour_rank": "0.690909090909091"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.9211,60.15432]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Lansiterminaali 1",
+        "time_interval": "2019-08-01 06:00:00",
+        "n_people": "11",
+        "avg_dist": "16.1",
+        "hour_rank": "0.508771929824561"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.9211,60.15432]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Lansiterminaali 1",
+        "time_interval": "2019-08-01 07:00:00",
+        "n_people": "13",
+        "avg_dist": "16.1",
+        "hour_rank": "0.53448275862069"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.9211,60.15432]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Lansiterminaali 1",
+        "time_interval": "2019-08-01 08:00:00",
+        "n_people": "14",
+        "avg_dist": "16.1",
+        "hour_rank": "0.637931034482759"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.9211,60.15432]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Lansiterminaali 1",
+        "time_interval": "2019-08-01 09:00:00",
+        "n_people": "15",
+        "avg_dist": "13.75",
+        "hour_rank": "0.672413793103448"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.9211,60.15432]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Lansiterminaali 1",
+        "time_interval": "2019-08-01 10:00:00",
+        "n_people": "15",
+        "avg_dist": "12.69",
+        "hour_rank": "0.631578947368421"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.9211,60.15432]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Lansiterminaali 1",
+        "time_interval": "2019-08-01 11:00:00",
+        "n_people": "12",
+        "avg_dist": "12.69",
+        "hour_rank": "0.53448275862069"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.9211,60.15432]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Lansiterminaali 1",
+        "time_interval": "2019-08-01 12:00:00",
+        "n_people": "17",
+        "avg_dist": "14.89",
+        "hour_rank": "0.793103448275862"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.9211,60.15432]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Lansiterminaali 1",
+        "time_interval": "2019-08-01 13:00:00",
+        "n_people": "19",
+        "avg_dist": "11.24",
+        "hour_rank": "0.741379310344828"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.9211,60.15432]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Lansiterminaali 1",
+        "time_interval": "2019-08-01 14:00:00",
+        "n_people": "31",
+        "avg_dist": "16.1",
+        "hour_rank": "0.896551724137931"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.9211,60.15432]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Lansiterminaali 1",
+        "time_interval": "2019-08-01 15:00:00",
+        "n_people": "13",
+        "avg_dist": "14.89",
+        "hour_rank": "0.741379310344828"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.9211,60.15432]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Lansiterminaali 1",
+        "time_interval": "2019-08-01 16:00:00",
+        "n_people": "7",
+        "avg_dist": "17.4",
+        "hour_rank": "0.526315789473684"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.9211,60.15432]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Lansiterminaali 1",
+        "time_interval": "2019-08-01 17:00:00",
+        "n_people": "6",
+        "avg_dist": "14.89",
+        "hour_rank": "0.442307692307692"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.9211,60.15432]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Lansiterminaali 1",
+        "time_interval": "2019-08-01 18:00:00",
+        "n_people": "6",
+        "avg_dist": "13.75",
+        "hour_rank": "0.482758620689655"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.9211,60.15432]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Lansiterminaali 1",
+        "time_interval": "2019-08-01 19:00:00",
+        "n_people": "6",
+        "avg_dist": "13.75",
+        "hour_rank": "0.517241379310345"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.9211,60.15432]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Lansiterminaali 1",
+        "time_interval": "2019-08-01 20:00:00",
+        "n_people": "5",
+        "avg_dist": "13.22",
+        "hour_rank": "0.456140350877193"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.9211,60.15432]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Lansiterminaali 1",
+        "time_interval": "2019-08-01 21:00:00",
+        "n_people": "5",
+        "avg_dist": "13.75",
+        "hour_rank": "0.418181818181818"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.9211,60.15432]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Lansiterminaali 1",
+        "time_interval": "2019-08-01 22:00:00",
+        "n_people": "5",
+        "avg_dist": "13.75",
+        "hour_rank": "0.433962264150943"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.9211,60.15432]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Lansiterminaali 1",
+        "time_interval": "2019-08-01 23:00:00",
+        "n_people": "5",
+        "avg_dist": "13.75",
+        "hour_rank": "0.462962962962963"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.9211,60.15432]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Lansiterminaali 2",
+        "time_interval": "2019-08-01 00:00:00",
+        "n_people": "2",
+        "avg_dist": "10.35",
+        "hour_rank": "0.15"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.91438,60.14947]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Lansiterminaali 2",
+        "time_interval": "2019-08-01 01:00:00",
+        "n_people": "2",
+        "avg_dist": "13.44",
+        "hour_rank": "0.1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.91438,60.14947]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Lansiterminaali 2",
+        "time_interval": "2019-08-01 02:00:00",
+        "n_people": "2",
+        "avg_dist": "9.92",
+        "hour_rank": "0.15"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.91438,60.14947]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Lansiterminaali 2",
+        "time_interval": "2019-08-01 03:00:00",
+        "n_people": "4",
+        "avg_dist": "17.4",
+        "hour_rank": "0.5"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.91438,60.14947]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Lansiterminaali 2",
+        "time_interval": "2019-08-01 04:00:00",
+        "n_people": "61",
+        "avg_dist": "12.69",
+        "hour_rank": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.91438,60.14947]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Lansiterminaali 2",
+        "time_interval": "2019-08-01 05:00:00",
+        "n_people": "47",
+        "avg_dist": "11.7",
+        "hour_rank": "0.65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.91438,60.14947]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Lansiterminaali 2",
+        "time_interval": "2019-08-01 06:00:00",
+        "n_people": "25",
+        "avg_dist": "13.75",
+        "hour_rank": "0.9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.91438,60.14947]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Lansiterminaali 2",
+        "time_interval": "2019-08-01 07:00:00",
+        "n_people": "29",
+        "avg_dist": "12.69",
+        "hour_rank": "0.6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.91438,60.14947]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Lansiterminaali 2",
+        "time_interval": "2019-08-01 08:00:00",
+        "n_people": "14",
+        "avg_dist": "16.1",
+        "hour_rank": "0.9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.91438,60.14947]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Lansiterminaali 2",
+        "time_interval": "2019-08-01 09:00:00",
+        "n_people": "19",
+        "avg_dist": "14.89",
+        "hour_rank": "0.95"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.91438,60.14947]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Lansiterminaali 2",
+        "time_interval": "2019-08-01 10:00:00",
+        "n_people": "20",
+        "avg_dist": "14.89",
+        "hour_rank": "0.5"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.91438,60.14947]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Lansiterminaali 2",
+        "time_interval": "2019-08-01 11:00:00",
+        "n_people": "21",
+        "avg_dist": "12.69",
+        "hour_rank": "0.7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.91438,60.14947]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Lansiterminaali 2",
+        "time_interval": "2019-08-01 12:00:00",
+        "n_people": "15",
+        "avg_dist": "16.1",
+        "hour_rank": "0.6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.91438,60.14947]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Lansiterminaali 2",
+        "time_interval": "2019-08-01 13:00:00",
+        "n_people": "18",
+        "avg_dist": "12.69",
+        "hour_rank": "0.95"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.91438,60.14947]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Lansiterminaali 2",
+        "time_interval": "2019-08-01 14:00:00",
+        "n_people": "10",
+        "avg_dist": "14.89",
+        "hour_rank": "0.75"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.91438,60.14947]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Lansiterminaali 2",
+        "time_interval": "2019-08-01 15:00:00",
+        "n_people": "8",
+        "avg_dist": "10.78",
+        "hour_rank": "0.1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.91438,60.14947]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Lansiterminaali 2",
+        "time_interval": "2019-08-01 16:00:00",
+        "n_people": "5",
+        "avg_dist": "23.56",
+        "hour_rank": "0.1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.91438,60.14947]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Lansiterminaali 2",
+        "time_interval": "2019-08-01 17:00:00",
+        "n_people": "10",
+        "avg_dist": "18.095",
+        "hour_rank": "0.65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.91438,60.14947]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Lansiterminaali 2",
+        "time_interval": "2019-08-01 18:00:00",
+        "n_people": "17",
+        "avg_dist": "17.4",
+        "hour_rank": "0.7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.91438,60.14947]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Lansiterminaali 2",
+        "time_interval": "2019-08-01 19:00:00",
+        "n_people": "5",
+        "avg_dist": "14.89",
+        "hour_rank": "0.5"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.91438,60.14947]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Lansiterminaali 2",
+        "time_interval": "2019-08-01 20:00:00",
+        "n_people": "3",
+        "avg_dist": "8.38",
+        "hour_rank": "0.75"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.91438,60.14947]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Lansiterminaali 2",
+        "time_interval": "2019-08-01 21:00:00",
+        "n_people": "3",
+        "avg_dist": "8.38",
+        "hour_rank": "0.6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.91438,60.14947]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Lansiterminaali 2",
+        "time_interval": "2019-08-01 22:00:00",
+        "n_people": "2",
+        "avg_dist": "8.38",
+        "hour_rank": "0.111111111111111"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.91438,60.14947]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Lansiterminaali 2",
+        "time_interval": "2019-08-01 23:00:00",
+        "n_people": "3",
+        "avg_dist": "10.78",
+        "hour_rank": "0.722222222222222"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.91438,60.14947]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Olympiaterminaali",
+        "time_interval": "2019-08-01 05:00:00",
+        "n_people": "1",
+        "avg_dist": "27.28",
+        "hour_rank": "0.0227272727272727"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95883,60.16075]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Olympiaterminaali",
+        "time_interval": "2019-08-01 06:00:00",
+        "n_people": "1",
+        "avg_dist": "25.42",
+        "hour_rank": "0.0185185185185185"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95883,60.16075]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Olympiaterminaali",
+        "time_interval": "2019-08-01 07:00:00",
+        "n_people": "10",
+        "avg_dist": "12.69",
+        "hour_rank": "0.645161290322581"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95883,60.16075]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Olympiaterminaali",
+        "time_interval": "2019-08-01 08:00:00",
+        "n_people": "9",
+        "avg_dist": "21.87",
+        "hour_rank": "0.774193548387097"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95883,60.16075]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Olympiaterminaali",
+        "time_interval": "2019-08-01 09:00:00",
+        "n_people": "5",
+        "avg_dist": "20.28",
+        "hour_rank": "0.448275862068966"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95883,60.16075]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Olympiaterminaali",
+        "time_interval": "2019-08-01 10:00:00",
+        "n_people": "10",
+        "avg_dist": "14.89",
+        "hour_rank": "0.966666666666667"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95883,60.16075]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Olympiaterminaali",
+        "time_interval": "2019-08-01 11:00:00",
+        "n_people": "9",
+        "avg_dist": "18.79",
+        "hour_rank": "0.629032258064516"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95883,60.16075]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Olympiaterminaali",
+        "time_interval": "2019-08-01 12:00:00",
+        "n_people": "44",
+        "avg_dist": "11.7",
+        "hour_rank": "0.806451612903226"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95883,60.16075]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Olympiaterminaali",
+        "time_interval": "2019-08-01 13:00:00",
+        "n_people": "66",
+        "avg_dist": "9.92",
+        "hour_rank": "0.919354838709677"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95883,60.16075]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Olympiaterminaali",
+        "time_interval": "2019-08-01 14:00:00",
+        "n_people": "5",
+        "avg_dist": "29.32",
+        "hour_rank": "0.847457627118644"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95883,60.16075]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Olympiaterminaali",
+        "time_interval": "2019-08-01 15:00:00",
+        "n_people": "2",
+        "avg_dist": "31.5",
+        "hour_rank": "0.657894736842105"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95883,60.16075]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Olympiaterminaali",
+        "time_interval": "2019-08-01 16:00:00",
+        "n_people": "1",
+        "avg_dist": "29.585",
+        "hour_rank": "0.0333333333333333"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95883,60.16075]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Olympiaterminaali",
+        "time_interval": "2019-08-01 17:00:00",
+        "n_people": "2",
+        "avg_dist": "23.56",
+        "hour_rank": "0.75"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95883,60.16075]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Olympiaterminaali",
+        "time_interval": "2019-08-01 18:00:00",
+        "n_people": "1",
+        "avg_dist": "23.56",
+        "hour_rank": "0.0588235294117647"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95883,60.16075]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Olympiaterminaali",
+        "time_interval": "2019-08-01 19:00:00",
+        "n_people": "1",
+        "avg_dist": "31.5",
+        "hour_rank": "0.0714285714285714"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95883,60.16075]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Olympiaterminaali",
+        "time_interval": "2019-08-01 20:00:00",
+        "n_people": "1",
+        "avg_dist": "32.655",
+        "hour_rank": "0.0666666666666667"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95883,60.16075]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Pakkahuoneenlaituri",
+        "time_interval": "2019-08-01 00:00:00",
+        "n_people": "10",
+        "avg_dist": "25.36",
+        "hour_rank": "0.65625"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95398,60.16544]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Pakkahuoneenlaituri",
+        "time_interval": "2019-08-01 01:00:00",
+        "n_people": "9",
+        "avg_dist": "25.36",
+        "hour_rank": "0.5625"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95398,60.16544]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Pakkahuoneenlaituri",
+        "time_interval": "2019-08-01 02:00:00",
+        "n_people": "9",
+        "avg_dist": "25.36",
+        "hour_rank": "0.6875"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95398,60.16544]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Pakkahuoneenlaituri",
+        "time_interval": "2019-08-01 03:00:00",
+        "n_people": "9",
+        "avg_dist": "27.28",
+        "hour_rank": "0.6875"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95398,60.16544]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Pakkahuoneenlaituri",
+        "time_interval": "2019-08-01 04:00:00",
+        "n_people": "11",
+        "avg_dist": "29.32",
+        "hour_rank": "0.703125"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95398,60.16544]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Pakkahuoneenlaituri",
+        "time_interval": "2019-08-01 05:00:00",
+        "n_people": "8",
+        "avg_dist": "29.32",
+        "hour_rank": "0.375"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95398,60.16544]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Pakkahuoneenlaituri",
+        "time_interval": "2019-08-01 06:00:00",
+        "n_people": "20",
+        "avg_dist": "23.56",
+        "hour_rank": "0.734375"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95398,60.16544]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Pakkahuoneenlaituri",
+        "time_interval": "2019-08-01 07:00:00",
+        "n_people": "27",
+        "avg_dist": "21.87",
+        "hour_rank": "0.806451612903226"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95398,60.16544]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Pakkahuoneenlaituri",
+        "time_interval": "2019-08-01 08:00:00",
+        "n_people": "28",
+        "avg_dist": "21.87",
+        "hour_rank": "0.693548387096774"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95398,60.16544]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Pakkahuoneenlaituri",
+        "time_interval": "2019-08-01 09:00:00",
+        "n_people": "28",
+        "avg_dist": "23.56",
+        "hour_rank": "0.693548387096774"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95398,60.16544]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Pakkahuoneenlaituri",
+        "time_interval": "2019-08-01 10:00:00",
+        "n_people": "22",
+        "avg_dist": "25.36",
+        "hour_rank": "0.532258064516129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95398,60.16544]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Pakkahuoneenlaituri",
+        "time_interval": "2019-08-01 11:00:00",
+        "n_people": "30",
+        "avg_dist": "21.87",
+        "hour_rank": "0.629032258064516"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95398,60.16544]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Pakkahuoneenlaituri",
+        "time_interval": "2019-08-01 12:00:00",
+        "n_people": "27",
+        "avg_dist": "20.28",
+        "hour_rank": "0.564516129032258"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95398,60.16544]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Pakkahuoneenlaituri",
+        "time_interval": "2019-08-01 13:00:00",
+        "n_people": "26",
+        "avg_dist": "22.715",
+        "hour_rank": "0.629032258064516"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95398,60.16544]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Pakkahuoneenlaituri",
+        "time_interval": "2019-08-01 14:00:00",
+        "n_people": "30",
+        "avg_dist": "18.79",
+        "hour_rank": "0.838709677419355"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95398,60.16544]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Pakkahuoneenlaituri",
+        "time_interval": "2019-08-01 15:00:00",
+        "n_people": "16",
+        "avg_dist": "21.87",
+        "hour_rank": "0.435483870967742"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95398,60.16544]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Pakkahuoneenlaituri",
+        "time_interval": "2019-08-01 16:00:00",
+        "n_people": "29",
+        "avg_dist": "24.46",
+        "hour_rank": "0.82258064516129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95398,60.16544]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Pakkahuoneenlaituri",
+        "time_interval": "2019-08-01 17:00:00",
+        "n_people": "16",
+        "avg_dist": "25.36",
+        "hour_rank": "0.46875"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95398,60.16544]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Pakkahuoneenlaituri",
+        "time_interval": "2019-08-01 18:00:00",
+        "n_people": "18",
+        "avg_dist": "23.56",
+        "hour_rank": "0.609375"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95398,60.16544]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Pakkahuoneenlaituri",
+        "time_interval": "2019-08-01 19:00:00",
+        "n_people": "9",
+        "avg_dist": "23.56",
+        "hour_rank": "0.234375"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95398,60.16544]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Pakkahuoneenlaituri",
+        "time_interval": "2019-08-01 20:00:00",
+        "n_people": "15",
+        "avg_dist": "21.87",
+        "hour_rank": "0.640625"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95398,60.16544]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Pakkahuoneenlaituri",
+        "time_interval": "2019-08-01 21:00:00",
+        "n_people": "11",
+        "avg_dist": "23.56",
+        "hour_rank": "0.484375"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95398,60.16544]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Pakkahuoneenlaituri",
+        "time_interval": "2019-08-01 22:00:00",
+        "n_people": "8",
+        "avg_dist": "25.36",
+        "hour_rank": "0.390625"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95398,60.16544]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Pakkahuoneenlaituri",
+        "time_interval": "2019-08-01 23:00:00",
+        "n_people": "8",
+        "avg_dist": "25.36",
+        "hour_rank": "0.484375"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95398,60.16544]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Senaatintori lantinen",
+        "time_interval": "2019-08-01 00:00:00",
+        "n_people": "11",
+        "avg_dist": "27.28",
+        "hour_rank": "0.9375"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95222,60.16897]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Senaatintori lantinen",
+        "time_interval": "2019-08-01 01:00:00",
+        "n_people": "6",
+        "avg_dist": "27.28",
+        "hour_rank": "0.59375"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95222,60.16897]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Senaatintori lantinen",
+        "time_interval": "2019-08-01 02:00:00",
+        "n_people": "6",
+        "avg_dist": "24.46",
+        "hour_rank": "0.603174603174603"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95222,60.16897]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Senaatintori lantinen",
+        "time_interval": "2019-08-01 03:00:00",
+        "n_people": "5",
+        "avg_dist": "29.32",
+        "hour_rank": "0.53125"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95222,60.16897]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Senaatintori lantinen",
+        "time_interval": "2019-08-01 04:00:00",
+        "n_people": "10",
+        "avg_dist": "26.32",
+        "hour_rank": "0.682539682539683"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95222,60.16897]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Senaatintori lantinen",
+        "time_interval": "2019-08-01 05:00:00",
+        "n_people": "16",
+        "avg_dist": "21.87",
+        "hour_rank": "0.609375"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95222,60.16897]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Senaatintori lantinen",
+        "time_interval": "2019-08-01 06:00:00",
+        "n_people": "29",
+        "avg_dist": "18.79",
+        "hour_rank": "0.671875"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95222,60.16897]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Senaatintori lantinen",
+        "time_interval": "2019-08-01 07:00:00",
+        "n_people": "48",
+        "avg_dist": "18.79",
+        "hour_rank": "0.734375"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95222,60.16897]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Senaatintori lantinen",
+        "time_interval": "2019-08-01 08:00:00",
+        "n_people": "65",
+        "avg_dist": "17.4",
+        "hour_rank": "0.59375"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95222,60.16897]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Senaatintori lantinen",
+        "time_interval": "2019-08-01 09:00:00",
+        "n_people": "57",
+        "avg_dist": "16.1",
+        "hour_rank": "0.515625"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95222,60.16897]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Senaatintori lantinen",
+        "time_interval": "2019-08-01 10:00:00",
+        "n_people": "59",
+        "avg_dist": "17.4",
+        "hour_rank": "0.59375"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95222,60.16897]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Senaatintori lantinen",
+        "time_interval": "2019-08-01 11:00:00",
+        "n_people": "78",
+        "avg_dist": "18.79",
+        "hour_rank": "0.838709677419355"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95222,60.16897]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Senaatintori lantinen",
+        "time_interval": "2019-08-01 12:00:00",
+        "n_people": "78",
+        "avg_dist": "18.79",
+        "hour_rank": "0.870967741935484"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95222,60.16897]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Senaatintori lantinen",
+        "time_interval": "2019-08-01 13:00:00",
+        "n_people": "59",
+        "avg_dist": "18.79",
+        "hour_rank": "0.725806451612903"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95222,60.16897]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Senaatintori lantinen",
+        "time_interval": "2019-08-01 14:00:00",
+        "n_people": "48",
+        "avg_dist": "20.28",
+        "hour_rank": "0.629032258064516"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95222,60.16897]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Senaatintori lantinen",
+        "time_interval": "2019-08-01 15:00:00",
+        "n_people": "48",
+        "avg_dist": "20.28",
+        "hour_rank": "0.629032258064516"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95222,60.16897]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Senaatintori lantinen",
+        "time_interval": "2019-08-01 16:00:00",
+        "n_people": "41",
+        "avg_dist": "16.75",
+        "hour_rank": "0.629032258064516"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95222,60.16897]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Senaatintori lantinen",
+        "time_interval": "2019-08-01 17:00:00",
+        "n_people": "29",
+        "avg_dist": "20.28",
+        "hour_rank": "0.453125"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95222,60.16897]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Senaatintori lantinen",
+        "time_interval": "2019-08-01 18:00:00",
+        "n_people": "33",
+        "avg_dist": "20.28",
+        "hour_rank": "0.6875"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95222,60.16897]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Senaatintori lantinen",
+        "time_interval": "2019-08-01 19:00:00",
+        "n_people": "37",
+        "avg_dist": "18.79",
+        "hour_rank": "0.921875"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95222,60.16897]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Senaatintori lantinen",
+        "time_interval": "2019-08-01 20:00:00",
+        "n_people": "12",
+        "avg_dist": "23.56",
+        "hour_rank": "0.53125"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95222,60.16897]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Senaatintori lantinen",
+        "time_interval": "2019-08-01 21:00:00",
+        "n_people": "14",
+        "avg_dist": "21.87",
+        "hour_rank": "0.828125"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95222,60.16897]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Senaatintori lantinen",
+        "time_interval": "2019-08-01 22:00:00",
+        "n_people": "16",
+        "avg_dist": "21.87",
+        "hour_rank": "0.984375"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95222,60.16897]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Senaatintori lantinen",
+        "time_interval": "2019-08-01 23:00:00",
+        "n_people": "17",
+        "avg_dist": "20.28",
+        "hour_rank": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95222,60.16897]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Sibelius Monumentti",
+        "time_interval": "2019-08-01 00:00:00",
+        "n_people": "5",
+        "avg_dist": "20.28",
+        "hour_rank": "0.904761904761905"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.91341,60.18203]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Sibelius Monumentti",
+        "time_interval": "2019-08-01 01:00:00",
+        "n_people": "5",
+        "avg_dist": "20.28",
+        "hour_rank": "0.968253968253968"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.91341,60.18203]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Sibelius Monumentti",
+        "time_interval": "2019-08-01 02:00:00",
+        "n_people": "5",
+        "avg_dist": "20.28",
+        "hour_rank": "0.953125"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.91341,60.18203]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Sibelius Monumentti",
+        "time_interval": "2019-08-01 03:00:00",
+        "n_people": "5",
+        "avg_dist": "18.79",
+        "hour_rank": "0.953125"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.91341,60.18203]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Sibelius Monumentti",
+        "time_interval": "2019-08-01 04:00:00",
+        "n_people": "6",
+        "avg_dist": "20.28",
+        "hour_rank": "0.952380952380952"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.91341,60.18203]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Sibelius Monumentti",
+        "time_interval": "2019-08-01 05:00:00",
+        "n_people": "6",
+        "avg_dist": "18.79",
+        "hour_rank": "0.758064516129032"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.91341,60.18203]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Sibelius Monumentti",
+        "time_interval": "2019-08-01 06:00:00",
+        "n_people": "9",
+        "avg_dist": "18.79",
+        "hour_rank": "0.67741935483871"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.91341,60.18203]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Sibelius Monumentti",
+        "time_interval": "2019-08-01 07:00:00",
+        "n_people": "25",
+        "avg_dist": "18.79",
+        "hour_rank": "0.90625"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.91341,60.18203]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Sibelius Monumentti",
+        "time_interval": "2019-08-01 08:00:00",
+        "n_people": "12",
+        "avg_dist": "21.87",
+        "hour_rank": "0.5625"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.91341,60.18203]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Sibelius Monumentti",
+        "time_interval": "2019-08-01 09:00:00",
+        "n_people": "11",
+        "avg_dist": "18.79",
+        "hour_rank": "0.40625"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.91341,60.18203]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Sibelius Monumentti",
+        "time_interval": "2019-08-01 10:00:00",
+        "n_people": "12",
+        "avg_dist": "18.79",
+        "hour_rank": "0.6875"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.91341,60.18203]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Sibelius Monumentti",
+        "time_interval": "2019-08-01 11:00:00",
+        "n_people": "17",
+        "avg_dist": "20.28",
+        "hour_rank": "0.90625"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.91341,60.18203]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Sibelius Monumentti",
+        "time_interval": "2019-08-01 12:00:00",
+        "n_people": "11",
+        "avg_dist": "19.535",
+        "hour_rank": "0.571428571428571"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.91341,60.18203]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Sibelius Monumentti",
+        "time_interval": "2019-08-01 13:00:00",
+        "n_people": "22",
+        "avg_dist": "18.79",
+        "hour_rank": "0.96875"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.91341,60.18203]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Sibelius Monumentti",
+        "time_interval": "2019-08-01 14:00:00",
+        "n_people": "23",
+        "avg_dist": "21.87",
+        "hour_rank": "0.967741935483871"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.91341,60.18203]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Sibelius Monumentti",
+        "time_interval": "2019-08-01 15:00:00",
+        "n_people": "11",
+        "avg_dist": "20.28",
+        "hour_rank": "0.629032258064516"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.91341,60.18203]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Sibelius Monumentti",
+        "time_interval": "2019-08-01 16:00:00",
+        "n_people": "9",
+        "avg_dist": "21.87",
+        "hour_rank": "0.5"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.91341,60.18203]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Sibelius Monumentti",
+        "time_interval": "2019-08-01 17:00:00",
+        "n_people": "11",
+        "avg_dist": "21.87",
+        "hour_rank": "0.796875"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.91341,60.18203]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Sibelius Monumentti",
+        "time_interval": "2019-08-01 18:00:00",
+        "n_people": "6",
+        "avg_dist": "20.28",
+        "hour_rank": "0.5"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.91341,60.18203]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Sibelius Monumentti",
+        "time_interval": "2019-08-01 19:00:00",
+        "n_people": "4",
+        "avg_dist": "18.79",
+        "hour_rank": "0.390625"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.91341,60.18203]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Sibelius Monumentti",
+        "time_interval": "2019-08-01 20:00:00",
+        "n_people": "5",
+        "avg_dist": "18.79",
+        "hour_rank": "0.73015873015873"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.91341,60.18203]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Sibelius Monumentti",
+        "time_interval": "2019-08-01 21:00:00",
+        "n_people": "5",
+        "avg_dist": "20.28",
+        "hour_rank": "0.90625"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.91341,60.18203]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Sibelius Monumentti",
+        "time_interval": "2019-08-01 22:00:00",
+        "n_people": "3",
+        "avg_dist": "18.79",
+        "hour_rank": "0.5625"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.91341,60.18203]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Sibelius Monumentti",
+        "time_interval": "2019-08-01 23:00:00",
+        "n_people": "2",
+        "avg_dist": "18.79",
+        "hour_rank": "0.046875"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.91341,60.18203]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Stockmann",
+        "time_interval": "2019-08-01 00:00:00",
+        "n_people": "8",
+        "avg_dist": "27.28",
+        "hour_rank": "0.759259259259259"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.94214,60.16829]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Stockmann",
+        "time_interval": "2019-08-01 01:00:00",
+        "n_people": "4",
+        "avg_dist": "20.28",
+        "hour_rank": "0.433962264150943"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.94214,60.16829]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Stockmann",
+        "time_interval": "2019-08-01 02:00:00",
+        "n_people": "2",
+        "avg_dist": "29.32",
+        "hour_rank": "0.0961538461538462"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.94214,60.16829]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Stockmann",
+        "time_interval": "2019-08-01 03:00:00",
+        "n_people": "3",
+        "avg_dist": "29.32",
+        "hour_rank": "0.245283018867925"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.94214,60.16829]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Stockmann",
+        "time_interval": "2019-08-01 04:00:00",
+        "n_people": "10",
+        "avg_dist": "25.36",
+        "hour_rank": "0.87037037037037"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.94214,60.16829]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Stockmann",
+        "time_interval": "2019-08-01 05:00:00",
+        "n_people": "14",
+        "avg_dist": "18.79",
+        "hour_rank": "0.690909090909091"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.94214,60.16829]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Stockmann",
+        "time_interval": "2019-08-01 06:00:00",
+        "n_people": "21",
+        "avg_dist": "14.89",
+        "hour_rank": "0.517857142857143"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.94214,60.16829]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Stockmann",
+        "time_interval": "2019-08-01 07:00:00",
+        "n_people": "29",
+        "avg_dist": "21.87",
+        "hour_rank": "0.589285714285714"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.94214,60.16829]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Stockmann",
+        "time_interval": "2019-08-01 08:00:00",
+        "n_people": "69",
+        "avg_dist": "16.1",
+        "hour_rank": "0.964285714285714"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.94214,60.16829]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Stockmann",
+        "time_interval": "2019-08-01 09:00:00",
+        "n_people": "78",
+        "avg_dist": "13.75",
+        "hour_rank": "0.803571428571429"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.94214,60.16829]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Stockmann",
+        "time_interval": "2019-08-01 10:00:00",
+        "n_people": "93",
+        "avg_dist": "14.89",
+        "hour_rank": "0.910714285714286"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.94214,60.16829]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Stockmann",
+        "time_interval": "2019-08-01 11:00:00",
+        "n_people": "87",
+        "avg_dist": "13.75",
+        "hour_rank": "0.839285714285714"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.94214,60.16829]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Stockmann",
+        "time_interval": "2019-08-01 12:00:00",
+        "n_people": "77",
+        "avg_dist": "14.89",
+        "hour_rank": "0.607142857142857"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.94214,60.16829]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Stockmann",
+        "time_interval": "2019-08-01 13:00:00",
+        "n_people": "85",
+        "avg_dist": "13.75",
+        "hour_rank": "0.714285714285714"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.94214,60.16829]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Stockmann",
+        "time_interval": "2019-08-01 14:00:00",
+        "n_people": "107",
+        "avg_dist": "13.75",
+        "hour_rank": "0.982142857142857"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.94214,60.16829]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Stockmann",
+        "time_interval": "2019-08-01 15:00:00",
+        "n_people": "90",
+        "avg_dist": "13.75",
+        "hour_rank": "0.946428571428571"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.94214,60.16829]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Stockmann",
+        "time_interval": "2019-08-01 16:00:00",
+        "n_people": "88",
+        "avg_dist": "16.1",
+        "hour_rank": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.94214,60.16829]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Stockmann",
+        "time_interval": "2019-08-01 17:00:00",
+        "n_people": "50",
+        "avg_dist": "18.79",
+        "hour_rank": "0.803571428571429"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.94214,60.16829]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Stockmann",
+        "time_interval": "2019-08-01 18:00:00",
+        "n_people": "16",
+        "avg_dist": "21.87",
+        "hour_rank": "0.428571428571429"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.94214,60.16829]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Stockmann",
+        "time_interval": "2019-08-01 19:00:00",
+        "n_people": "11",
+        "avg_dist": "20.28",
+        "hour_rank": "0.410714285714286"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.94214,60.16829]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Stockmann",
+        "time_interval": "2019-08-01 20:00:00",
+        "n_people": "12",
+        "avg_dist": "21.87",
+        "hour_rank": "0.607142857142857"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.94214,60.16829]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Stockmann",
+        "time_interval": "2019-08-01 21:00:00",
+        "n_people": "7",
+        "avg_dist": "21.87",
+        "hour_rank": "0.37037037037037"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.94214,60.16829]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Stockmann",
+        "time_interval": "2019-08-01 22:00:00",
+        "n_people": "9",
+        "avg_dist": "23.56",
+        "hour_rank": "0.642857142857143"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.94214,60.16829]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Stockmann",
+        "time_interval": "2019-08-01 23:00:00",
+        "n_people": "11",
+        "avg_dist": "25.36",
+        "hour_rank": "0.740740740740741"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.94214,60.16829]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Suomenlinna",
+        "time_interval": "2019-08-01 00:00:00",
+        "n_people": "1",
+        "avg_dist": "35.04",
+        "hour_rank": "0.0172413793103448"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.9843,60.149]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Suomenlinna",
+        "time_interval": "2019-08-01 01:00:00",
+        "n_people": "1",
+        "avg_dist": "36.27",
+        "hour_rank": "0.0175438596491228"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.9843,60.149]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Suomenlinna",
+        "time_interval": "2019-08-01 02:00:00",
+        "n_people": "1",
+        "avg_dist": "35.185",
+        "hour_rank": "0.0175438596491228"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.9843,60.149]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Suomenlinna",
+        "time_interval": "2019-08-01 03:00:00",
+        "n_people": "1",
+        "avg_dist": "31.5",
+        "hour_rank": "0.0175438596491228"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.9843,60.149]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Suomenlinna",
+        "time_interval": "2019-08-01 04:00:00",
+        "n_people": "1",
+        "avg_dist": "31.5",
+        "hour_rank": "0.0175438596491228"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.9843,60.149]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Suomenlinna",
+        "time_interval": "2019-08-01 05:00:00",
+        "n_people": "2",
+        "avg_dist": "25.36",
+        "hour_rank": "0.413793103448276"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.9843,60.149]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Suomenlinna",
+        "time_interval": "2019-08-01 06:00:00",
+        "n_people": "2",
+        "avg_dist": "27.28",
+        "hour_rank": "0.362068965517241"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.9843,60.149]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Suomenlinna",
+        "time_interval": "2019-08-01 07:00:00",
+        "n_people": "4",
+        "avg_dist": "20.28",
+        "hour_rank": "0.310344827586207"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.9843,60.149]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Suomenlinna",
+        "time_interval": "2019-08-01 08:00:00",
+        "n_people": "20",
+        "avg_dist": "16.75",
+        "hour_rank": "0.948275862068966"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.9843,60.149]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Suomenlinna",
+        "time_interval": "2019-08-01 09:00:00",
+        "n_people": "28",
+        "avg_dist": "17.4",
+        "hour_rank": "0.827586206896552"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.9843,60.149]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Suomenlinna",
+        "time_interval": "2019-08-01 10:00:00",
+        "n_people": "9",
+        "avg_dist": "24.46",
+        "hour_rank": "0.275862068965517"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.9843,60.149]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Suomenlinna",
+        "time_interval": "2019-08-01 11:00:00",
+        "n_people": "28",
+        "avg_dist": "16.1",
+        "hour_rank": "0.827586206896552"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.9843,60.149]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Suomenlinna",
+        "time_interval": "2019-08-01 12:00:00",
+        "n_people": "32",
+        "avg_dist": "17.4",
+        "hour_rank": "0.888888888888889"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.9843,60.149]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Suomenlinna",
+        "time_interval": "2019-08-01 13:00:00",
+        "n_people": "21",
+        "avg_dist": "18.79",
+        "hour_rank": "0.821428571428571"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.9843,60.149]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Suomenlinna",
+        "time_interval": "2019-08-01 14:00:00",
+        "n_people": "16",
+        "avg_dist": "14.89",
+        "hour_rank": "0.767857142857143"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.9843,60.149]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Suomenlinna",
+        "time_interval": "2019-08-01 15:00:00",
+        "n_people": "13",
+        "avg_dist": "22.715",
+        "hour_rank": "0.535714285714286"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.9843,60.149]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Suomenlinna",
+        "time_interval": "2019-08-01 16:00:00",
+        "n_people": "18",
+        "avg_dist": "19.535",
+        "hour_rank": "0.839285714285714"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.9843,60.149]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Suomenlinna",
+        "time_interval": "2019-08-01 17:00:00",
+        "n_people": "21",
+        "avg_dist": "18.79",
+        "hour_rank": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.9843,60.149]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Suomenlinna",
+        "time_interval": "2019-08-01 18:00:00",
+        "n_people": "9",
+        "avg_dist": "21.87",
+        "hour_rank": "0.672413793103448"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.9843,60.149]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Suomenlinna",
+        "time_interval": "2019-08-01 19:00:00",
+        "n_people": "3",
+        "avg_dist": "23.56",
+        "hour_rank": "0.413793103448276"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.9843,60.149]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Suomenlinna",
+        "time_interval": "2019-08-01 20:00:00",
+        "n_people": "3",
+        "avg_dist": "23.56",
+        "hour_rank": "0.696428571428571"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.9843,60.149]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Suomenlinna",
+        "time_interval": "2019-08-01 21:00:00",
+        "n_people": "2",
+        "avg_dist": "17.4",
+        "hour_rank": "0.741379310344828"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.9843,60.149]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Suomenlinna",
+        "time_interval": "2019-08-01 22:00:00",
+        "n_people": "1",
+        "avg_dist": "24.46",
+        "hour_rank": "0.0172413793103448"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.9843,60.149]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Suomenlinna",
+        "time_interval": "2019-08-01 23:00:00",
+        "n_people": "1",
+        "avg_dist": "23.56",
+        "hour_rank": "0.0175438596491228"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.9843,60.149]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Temppeliaukion kirkko",
+        "time_interval": "2019-08-01 07:00:00",
+        "n_people": "14",
+        "avg_dist": "20.28",
+        "hour_rank": "0.823529411764706"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.92524,60.173]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Temppeliaukion kirkko",
+        "time_interval": "2019-08-01 08:00:00",
+        "n_people": "20",
+        "avg_dist": "20.28",
+        "hour_rank": "0.875"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.92524,60.173]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Temppeliaukion kirkko",
+        "time_interval": "2019-08-01 09:00:00",
+        "n_people": "6",
+        "avg_dist": "12.69",
+        "hour_rank": "0.181818181818182"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.92524,60.173]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Temppeliaukion kirkko",
+        "time_interval": "2019-08-01 10:00:00",
+        "n_people": "8",
+        "avg_dist": "10.78",
+        "hour_rank": "0.413793103448276"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.92524,60.173]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Temppeliaukion kirkko",
+        "time_interval": "2019-08-01 11:00:00",
+        "n_people": "2",
+        "avg_dist": "8.805",
+        "hour_rank": "0.032258064516129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.92524,60.173]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Temppeliaukion kirkko",
+        "time_interval": "2019-08-01 12:00:00",
+        "n_people": "4",
+        "avg_dist": "13.75",
+        "hour_rank": "0.28125"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.92524,60.173]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Temppeliaukion kirkko",
+        "time_interval": "2019-08-01 13:00:00",
+        "n_people": "6",
+        "avg_dist": "16.1",
+        "hour_rank": "0.5"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.92524,60.173]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Temppeliaukion kirkko",
+        "time_interval": "2019-08-01 14:00:00",
+        "n_people": "8",
+        "avg_dist": "16.1",
+        "hour_rank": "0.71875"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.92524,60.173]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Temppeliaukion kirkko",
+        "time_interval": "2019-08-01 15:00:00",
+        "n_people": "8",
+        "avg_dist": "21.075",
+        "hour_rank": "0.96551724137931"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.92524,60.173]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Temppeliaukion kirkko",
+        "time_interval": "2019-08-01 16:00:00",
+        "n_people": "2",
+        "avg_dist": "29.32",
+        "hour_rank": "0.346153846153846"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.92524,60.173]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Temppeliaukion kirkko",
+        "time_interval": "2019-08-01 17:00:00",
+        "n_people": "1",
+        "avg_dist": "2.67",
+        "hour_rank": "0.037037037037037"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.92524,60.173]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Temppeliaukion kirkko",
+        "time_interval": "2019-08-01 18:00:00",
+        "n_people": "2",
+        "avg_dist": "25.36",
+        "hour_rank": "0.428571428571429"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.92524,60.173]
+      }
+    }
+  ]
+}
