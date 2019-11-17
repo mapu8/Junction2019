@@ -1,0 +1,229 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Olympiaterminaali",
+        "time_interval": "2019-08-01 05:00:00",
+        "n_people": "1",
+        "avg_dist": "27.28",
+        "hour_rank": "0.0227272727272727"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95883,60.16075]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Olympiaterminaali",
+        "time_interval": "2019-08-01 06:00:00",
+        "n_people": "1",
+        "avg_dist": "25.42",
+        "hour_rank": "0.0185185185185185"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95883,60.16075]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Olympiaterminaali",
+        "time_interval": "2019-08-01 07:00:00",
+        "n_people": "10",
+        "avg_dist": "12.69",
+        "hour_rank": "0.645161290322581"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95883,60.16075]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Olympiaterminaali",
+        "time_interval": "2019-08-01 08:00:00",
+        "n_people": "9",
+        "avg_dist": "21.87",
+        "hour_rank": "0.774193548387097"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95883,60.16075]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Olympiaterminaali",
+        "time_interval": "2019-08-01 09:00:00",
+        "n_people": "5",
+        "avg_dist": "20.28",
+        "hour_rank": "0.448275862068966"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95883,60.16075]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Olympiaterminaali",
+        "time_interval": "2019-08-01 10:00:00",
+        "n_people": "10",
+        "avg_dist": "14.89",
+        "hour_rank": "0.966666666666667"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95883,60.16075]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Olympiaterminaali",
+        "time_interval": "2019-08-01 11:00:00",
+        "n_people": "9",
+        "avg_dist": "18.79",
+        "hour_rank": "0.629032258064516"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95883,60.16075]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Olympiaterminaali",
+        "time_interval": "2019-08-01 12:00:00",
+        "n_people": "44",
+        "avg_dist": "11.7",
+        "hour_rank": "0.806451612903226"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95883,60.16075]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Olympiaterminaali",
+        "time_interval": "2019-08-01 13:00:00",
+        "n_people": "66",
+        "avg_dist": "9.92",
+        "hour_rank": "0.919354838709677"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95883,60.16075]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Olympiaterminaali",
+        "time_interval": "2019-08-01 14:00:00",
+        "n_people": "5",
+        "avg_dist": "29.32",
+        "hour_rank": "0.847457627118644"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95883,60.16075]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Olympiaterminaali",
+        "time_interval": "2019-08-01 15:00:00",
+        "n_people": "2",
+        "avg_dist": "31.5",
+        "hour_rank": "0.657894736842105"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95883,60.16075]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Olympiaterminaali",
+        "time_interval": "2019-08-01 16:00:00",
+        "n_people": "1",
+        "avg_dist": "29.585",
+        "hour_rank": "0.0333333333333333"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95883,60.16075]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Olympiaterminaali",
+        "time_interval": "2019-08-01 17:00:00",
+        "n_people": "2",
+        "avg_dist": "23.56",
+        "hour_rank": "0.75"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95883,60.16075]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Olympiaterminaali",
+        "time_interval": "2019-08-01 18:00:00",
+        "n_people": "1",
+        "avg_dist": "23.56",
+        "hour_rank": "0.0588235294117647"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95883,60.16075]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Olympiaterminaali",
+        "time_interval": "2019-08-01 19:00:00",
+        "n_people": "1",
+        "avg_dist": "31.5",
+        "hour_rank": "0.0714285714285714"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95883,60.16075]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Olympiaterminaali",
+        "time_interval": "2019-08-01 20:00:00",
+        "n_people": "1",
+        "avg_dist": "32.655",
+        "hour_rank": "0.0666666666666667"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95883,60.16075]
+      }
+    }
+  ]
+}

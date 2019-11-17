@@ -1,0 +1,271 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Hernesaari LHB",
+        "time_interval": "2019-08-01 00:00:00",
+        "n_people": "1",
+        "avg_dist": "31.5",
+        "hour_rank": "0.0232558139534884"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.92329,60.15133]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Hernesaari LHB",
+        "time_interval": "2019-08-01 05:00:00",
+        "n_people": "1",
+        "avg_dist": "31.5",
+        "hour_rank": "0.02"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.92329,60.15133]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Hernesaari LHB",
+        "time_interval": "2019-08-01 06:00:00",
+        "n_people": "3",
+        "avg_dist": "20.28",
+        "hour_rank": "0.547169811320755"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.92329,60.15133]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Hernesaari LHB",
+        "time_interval": "2019-08-01 07:00:00",
+        "n_people": "9",
+        "avg_dist": "18.79",
+        "hour_rank": "0.75"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.92329,60.15133]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Hernesaari LHB",
+        "time_interval": "2019-08-01 08:00:00",
+        "n_people": "5",
+        "avg_dist": "21.075",
+        "hour_rank": "0.527272727272727"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.92329,60.15133]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Hernesaari LHB",
+        "time_interval": "2019-08-01 09:00:00",
+        "n_people": "17",
+        "avg_dist": "20.28",
+        "hour_rank": "0.884615384615385"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.92329,60.15133]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Hernesaari LHB",
+        "time_interval": "2019-08-01 10:00:00",
+        "n_people": "5",
+        "avg_dist": "22.715",
+        "hour_rank": "0.490196078431373"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.92329,60.15133]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Hernesaari LHB",
+        "time_interval": "2019-08-01 11:00:00",
+        "n_people": "5",
+        "avg_dist": "25.36",
+        "hour_rank": "0.62962962962963"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.92329,60.15133]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Hernesaari LHB",
+        "time_interval": "2019-08-01 12:00:00",
+        "n_people": "4",
+        "avg_dist": "25.36",
+        "hour_rank": "0.490566037735849"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.92329,60.15133]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Hernesaari LHB",
+        "time_interval": "2019-08-01 13:00:00",
+        "n_people": "6",
+        "avg_dist": "27.28",
+        "hour_rank": "0.543859649122807"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.92329,60.15133]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Hernesaari LHB",
+        "time_interval": "2019-08-01 14:00:00",
+        "n_people": "3",
+        "avg_dist": "20.28",
+        "hour_rank": "0.411764705882353"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.92329,60.15133]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Hernesaari LHB",
+        "time_interval": "2019-08-01 15:00:00",
+        "n_people": "2",
+        "avg_dist": "23.56",
+        "hour_rank": "0.22"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.92329,60.15133]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Hernesaari LHB",
+        "time_interval": "2019-08-01 16:00:00",
+        "n_people": "18",
+        "avg_dist": "23.56",
+        "hour_rank": "0.9375"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.92329,60.15133]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Hernesaari LHB",
+        "time_interval": "2019-08-01 17:00:00",
+        "n_people": "3",
+        "avg_dist": "18.79",
+        "hour_rank": "0.711111111111111"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.92329,60.15133]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Hernesaari LHB",
+        "time_interval": "2019-08-01 18:00:00",
+        "n_people": "4",
+        "avg_dist": "25.36",
+        "hour_rank": "0.765957446808511"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.92329,60.15133]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Hernesaari LHB",
+        "time_interval": "2019-08-01 19:00:00",
+        "n_people": "3",
+        "avg_dist": "18.79",
+        "hour_rank": "0.75"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.92329,60.15133]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Hernesaari LHB",
+        "time_interval": "2019-08-01 20:00:00",
+        "n_people": "4",
+        "avg_dist": "10.35",
+        "hour_rank": "0.872340425531915"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.92329,60.15133]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Hernesaari LHB",
+        "time_interval": "2019-08-01 21:00:00",
+        "n_people": "3",
+        "avg_dist": "24.46",
+        "hour_rank": "0.791666666666667"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.92329,60.15133]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Hernesaari LHB",
+        "time_interval": "2019-08-01 22:00:00",
+        "n_people": "1",
+        "avg_dist": "18.79",
+        "hour_rank": "0.0232558139534884"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.92329,60.15133]
+      }
+    }
+  ]
+}

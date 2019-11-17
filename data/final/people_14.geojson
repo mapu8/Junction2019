@@ -1,0 +1,341 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Lansiterminaali 1",
+        "time_interval": "2019-08-01 00:00:00",
+        "n_people": "3",
+        "avg_dist": "28.3",
+        "hour_rank": "0.259259259259259"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.9211,60.15432]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Lansiterminaali 1",
+        "time_interval": "2019-08-01 01:00:00",
+        "n_people": "3",
+        "avg_dist": "28.3",
+        "hour_rank": "0.264150943396226"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.9211,60.15432]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Lansiterminaali 1",
+        "time_interval": "2019-08-01 02:00:00",
+        "n_people": "2",
+        "avg_dist": "27.28",
+        "hour_rank": "0.153846153846154"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.9211,60.15432]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Lansiterminaali 1",
+        "time_interval": "2019-08-01 03:00:00",
+        "n_people": "4",
+        "avg_dist": "23.56",
+        "hour_rank": "0.333333333333333"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.9211,60.15432]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Lansiterminaali 1",
+        "time_interval": "2019-08-01 04:00:00",
+        "n_people": "2",
+        "avg_dist": "24.46",
+        "hour_rank": "0.115384615384615"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.9211,60.15432]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Lansiterminaali 1",
+        "time_interval": "2019-08-01 05:00:00",
+        "n_people": "11",
+        "avg_dist": "16.1",
+        "hour_rank": "0.690909090909091"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.9211,60.15432]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Lansiterminaali 1",
+        "time_interval": "2019-08-01 06:00:00",
+        "n_people": "11",
+        "avg_dist": "16.1",
+        "hour_rank": "0.508771929824561"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.9211,60.15432]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Lansiterminaali 1",
+        "time_interval": "2019-08-01 07:00:00",
+        "n_people": "13",
+        "avg_dist": "16.1",
+        "hour_rank": "0.53448275862069"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.9211,60.15432]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Lansiterminaali 1",
+        "time_interval": "2019-08-01 08:00:00",
+        "n_people": "14",
+        "avg_dist": "16.1",
+        "hour_rank": "0.637931034482759"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.9211,60.15432]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Lansiterminaali 1",
+        "time_interval": "2019-08-01 09:00:00",
+        "n_people": "15",
+        "avg_dist": "13.75",
+        "hour_rank": "0.672413793103448"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.9211,60.15432]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Lansiterminaali 1",
+        "time_interval": "2019-08-01 10:00:00",
+        "n_people": "15",
+        "avg_dist": "12.69",
+        "hour_rank": "0.631578947368421"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.9211,60.15432]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Lansiterminaali 1",
+        "time_interval": "2019-08-01 11:00:00",
+        "n_people": "12",
+        "avg_dist": "12.69",
+        "hour_rank": "0.53448275862069"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.9211,60.15432]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Lansiterminaali 1",
+        "time_interval": "2019-08-01 12:00:00",
+        "n_people": "17",
+        "avg_dist": "14.89",
+        "hour_rank": "0.793103448275862"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.9211,60.15432]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Lansiterminaali 1",
+        "time_interval": "2019-08-01 13:00:00",
+        "n_people": "19",
+        "avg_dist": "11.24",
+        "hour_rank": "0.741379310344828"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.9211,60.15432]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Lansiterminaali 1",
+        "time_interval": "2019-08-01 14:00:00",
+        "n_people": "31",
+        "avg_dist": "16.1",
+        "hour_rank": "0.896551724137931"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.9211,60.15432]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Lansiterminaali 1",
+        "time_interval": "2019-08-01 15:00:00",
+        "n_people": "13",
+        "avg_dist": "14.89",
+        "hour_rank": "0.741379310344828"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.9211,60.15432]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Lansiterminaali 1",
+        "time_interval": "2019-08-01 16:00:00",
+        "n_people": "7",
+        "avg_dist": "17.4",
+        "hour_rank": "0.526315789473684"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.9211,60.15432]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Lansiterminaali 1",
+        "time_interval": "2019-08-01 17:00:00",
+        "n_people": "6",
+        "avg_dist": "14.89",
+        "hour_rank": "0.442307692307692"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.9211,60.15432]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Lansiterminaali 1",
+        "time_interval": "2019-08-01 18:00:00",
+        "n_people": "6",
+        "avg_dist": "13.75",
+        "hour_rank": "0.482758620689655"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.9211,60.15432]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Lansiterminaali 1",
+        "time_interval": "2019-08-01 19:00:00",
+        "n_people": "6",
+        "avg_dist": "13.75",
+        "hour_rank": "0.517241379310345"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.9211,60.15432]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Lansiterminaali 1",
+        "time_interval": "2019-08-01 20:00:00",
+        "n_people": "5",
+        "avg_dist": "13.22",
+        "hour_rank": "0.456140350877193"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.9211,60.15432]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Lansiterminaali 1",
+        "time_interval": "2019-08-01 21:00:00",
+        "n_people": "5",
+        "avg_dist": "13.75",
+        "hour_rank": "0.418181818181818"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.9211,60.15432]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Lansiterminaali 1",
+        "time_interval": "2019-08-01 22:00:00",
+        "n_people": "5",
+        "avg_dist": "13.75",
+        "hour_rank": "0.433962264150943"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.9211,60.15432]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Lansiterminaali 1",
+        "time_interval": "2019-08-01 23:00:00",
+        "n_people": "5",
+        "avg_dist": "13.75",
+        "hour_rank": "0.462962962962963"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.9211,60.15432]
+      }
+    }
+  ]
+}

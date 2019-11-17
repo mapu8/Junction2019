@@ -1,0 +1,341 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Hakaniemen kauppahalli 2",
+        "time_interval": "2019-08-01 00:00:00",
+        "n_people": "2",
+        "avg_dist": "17.4",
+        "hour_rank": "0.150943396226415"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95181,60.17919]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Hakaniemen kauppahalli 2",
+        "time_interval": "2019-08-01 01:00:00",
+        "n_people": "2",
+        "avg_dist": "17.4",
+        "hour_rank": "0.133333333333333"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95181,60.17919]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Hakaniemen kauppahalli 2",
+        "time_interval": "2019-08-01 02:00:00",
+        "n_people": "2",
+        "avg_dist": "17.4",
+        "hour_rank": "0.109090909090909"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95181,60.17919]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Hakaniemen kauppahalli 2",
+        "time_interval": "2019-08-01 03:00:00",
+        "n_people": "2",
+        "avg_dist": "17.4",
+        "hour_rank": "0.137254901960784"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95181,60.17919]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Hakaniemen kauppahalli 2",
+        "time_interval": "2019-08-01 04:00:00",
+        "n_people": "2",
+        "avg_dist": "20.28",
+        "hour_rank": "0.188679245283019"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95181,60.17919]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Hakaniemen kauppahalli 2",
+        "time_interval": "2019-08-01 05:00:00",
+        "n_people": "10",
+        "avg_dist": "12.69",
+        "hour_rank": "0.928571428571429"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95181,60.17919]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Hakaniemen kauppahalli 2",
+        "time_interval": "2019-08-01 06:00:00",
+        "n_people": "18",
+        "avg_dist": "9.12",
+        "hour_rank": "0.852459016393443"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95181,60.17919]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Hakaniemen kauppahalli 2",
+        "time_interval": "2019-08-01 07:00:00",
+        "n_people": "25",
+        "avg_dist": "9.92",
+        "hour_rank": "0.825396825396825"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95181,60.17919]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Hakaniemen kauppahalli 2",
+        "time_interval": "2019-08-01 08:00:00",
+        "n_people": "25",
+        "avg_dist": "12.69",
+        "hour_rank": "0.603174603174603"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95181,60.17919]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Hakaniemen kauppahalli 2",
+        "time_interval": "2019-08-01 09:00:00",
+        "n_people": "60",
+        "avg_dist": "10.78",
+        "hour_rank": "0.952380952380952"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95181,60.17919]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Hakaniemen kauppahalli 2",
+        "time_interval": "2019-08-01 10:00:00",
+        "n_people": "31",
+        "avg_dist": "14.89",
+        "hour_rank": "0.578125"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95181,60.17919]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Hakaniemen kauppahalli 2",
+        "time_interval": "2019-08-01 11:00:00",
+        "n_people": "45",
+        "avg_dist": "11.7",
+        "hour_rank": "0.953125"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95181,60.17919]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Hakaniemen kauppahalli 2",
+        "time_interval": "2019-08-01 12:00:00",
+        "n_people": "12",
+        "avg_dist": "13.75",
+        "hour_rank": "0.387096774193548"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95181,60.17919]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Hakaniemen kauppahalli 2",
+        "time_interval": "2019-08-01 13:00:00",
+        "n_people": "25",
+        "avg_dist": "10.78",
+        "hour_rank": "0.625"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95181,60.17919]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Hakaniemen kauppahalli 2",
+        "time_interval": "2019-08-01 14:00:00",
+        "n_people": "20",
+        "avg_dist": "14.89",
+        "hour_rank": "0.666666666666667"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95181,60.17919]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Hakaniemen kauppahalli 2",
+        "time_interval": "2019-08-01 15:00:00",
+        "n_people": "11",
+        "avg_dist": "16.1",
+        "hour_rank": "0.603448275862069"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95181,60.17919]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Hakaniemen kauppahalli 2",
+        "time_interval": "2019-08-01 16:00:00",
+        "n_people": "2",
+        "avg_dist": "20.33",
+        "hour_rank": "0.225806451612903"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95181,60.17919]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Hakaniemen kauppahalli 2",
+        "time_interval": "2019-08-01 17:00:00",
+        "n_people": "2",
+        "avg_dist": "16.1",
+        "hour_rank": "0.140350877192982"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95181,60.17919]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Hakaniemen kauppahalli 2",
+        "time_interval": "2019-08-01 18:00:00",
+        "n_people": "2",
+        "avg_dist": "19.535",
+        "hour_rank": "0.254237288135593"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95181,60.17919]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Hakaniemen kauppahalli 2",
+        "time_interval": "2019-08-01 19:00:00",
+        "n_people": "2",
+        "avg_dist": "17.4",
+        "hour_rank": "0.115384615384615"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95181,60.17919]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Hakaniemen kauppahalli 2",
+        "time_interval": "2019-08-01 20:00:00",
+        "n_people": "2",
+        "avg_dist": "17.4",
+        "hour_rank": "0.229166666666667"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95181,60.17919]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Hakaniemen kauppahalli 2",
+        "time_interval": "2019-08-01 21:00:00",
+        "n_people": "2",
+        "avg_dist": "21.175",
+        "hour_rank": "0.188679245283019"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95181,60.17919]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Hakaniemen kauppahalli 2",
+        "time_interval": "2019-08-01 22:00:00",
+        "n_people": "2",
+        "avg_dist": "18.79",
+        "hour_rank": "0.192307692307692"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95181,60.17919]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Hakaniemen kauppahalli 2",
+        "time_interval": "2019-08-01 23:00:00",
+        "n_people": "2",
+        "avg_dist": "18.79",
+        "hour_rank": "0.0943396226415094"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95181,60.17919]
+      }
+    }
+  ]
+}

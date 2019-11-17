@@ -1,0 +1,341 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Suomenlinna",
+        "time_interval": "2019-08-01 00:00:00",
+        "n_people": "1",
+        "avg_dist": "35.04",
+        "hour_rank": "0.0172413793103448"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.9843,60.149]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Suomenlinna",
+        "time_interval": "2019-08-01 01:00:00",
+        "n_people": "1",
+        "avg_dist": "36.27",
+        "hour_rank": "0.0175438596491228"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.9843,60.149]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Suomenlinna",
+        "time_interval": "2019-08-01 02:00:00",
+        "n_people": "1",
+        "avg_dist": "35.185",
+        "hour_rank": "0.0175438596491228"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.9843,60.149]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Suomenlinna",
+        "time_interval": "2019-08-01 03:00:00",
+        "n_people": "1",
+        "avg_dist": "31.5",
+        "hour_rank": "0.0175438596491228"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.9843,60.149]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Suomenlinna",
+        "time_interval": "2019-08-01 04:00:00",
+        "n_people": "1",
+        "avg_dist": "31.5",
+        "hour_rank": "0.0175438596491228"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.9843,60.149]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Suomenlinna",
+        "time_interval": "2019-08-01 05:00:00",
+        "n_people": "2",
+        "avg_dist": "25.36",
+        "hour_rank": "0.413793103448276"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.9843,60.149]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Suomenlinna",
+        "time_interval": "2019-08-01 06:00:00",
+        "n_people": "2",
+        "avg_dist": "27.28",
+        "hour_rank": "0.362068965517241"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.9843,60.149]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Suomenlinna",
+        "time_interval": "2019-08-01 07:00:00",
+        "n_people": "4",
+        "avg_dist": "20.28",
+        "hour_rank": "0.310344827586207"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.9843,60.149]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Suomenlinna",
+        "time_interval": "2019-08-01 08:00:00",
+        "n_people": "20",
+        "avg_dist": "16.75",
+        "hour_rank": "0.948275862068966"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.9843,60.149]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Suomenlinna",
+        "time_interval": "2019-08-01 09:00:00",
+        "n_people": "28",
+        "avg_dist": "17.4",
+        "hour_rank": "0.827586206896552"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.9843,60.149]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Suomenlinna",
+        "time_interval": "2019-08-01 10:00:00",
+        "n_people": "9",
+        "avg_dist": "24.46",
+        "hour_rank": "0.275862068965517"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.9843,60.149]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Suomenlinna",
+        "time_interval": "2019-08-01 11:00:00",
+        "n_people": "28",
+        "avg_dist": "16.1",
+        "hour_rank": "0.827586206896552"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.9843,60.149]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Suomenlinna",
+        "time_interval": "2019-08-01 12:00:00",
+        "n_people": "32",
+        "avg_dist": "17.4",
+        "hour_rank": "0.888888888888889"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.9843,60.149]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Suomenlinna",
+        "time_interval": "2019-08-01 13:00:00",
+        "n_people": "21",
+        "avg_dist": "18.79",
+        "hour_rank": "0.821428571428571"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.9843,60.149]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Suomenlinna",
+        "time_interval": "2019-08-01 14:00:00",
+        "n_people": "16",
+        "avg_dist": "14.89",
+        "hour_rank": "0.767857142857143"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.9843,60.149]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Suomenlinna",
+        "time_interval": "2019-08-01 15:00:00",
+        "n_people": "13",
+        "avg_dist": "22.715",
+        "hour_rank": "0.535714285714286"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.9843,60.149]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Suomenlinna",
+        "time_interval": "2019-08-01 16:00:00",
+        "n_people": "18",
+        "avg_dist": "19.535",
+        "hour_rank": "0.839285714285714"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.9843,60.149]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Suomenlinna",
+        "time_interval": "2019-08-01 17:00:00",
+        "n_people": "21",
+        "avg_dist": "18.79",
+        "hour_rank": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.9843,60.149]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Suomenlinna",
+        "time_interval": "2019-08-01 18:00:00",
+        "n_people": "9",
+        "avg_dist": "21.87",
+        "hour_rank": "0.672413793103448"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.9843,60.149]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Suomenlinna",
+        "time_interval": "2019-08-01 19:00:00",
+        "n_people": "3",
+        "avg_dist": "23.56",
+        "hour_rank": "0.413793103448276"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.9843,60.149]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Suomenlinna",
+        "time_interval": "2019-08-01 20:00:00",
+        "n_people": "3",
+        "avg_dist": "23.56",
+        "hour_rank": "0.696428571428571"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.9843,60.149]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Suomenlinna",
+        "time_interval": "2019-08-01 21:00:00",
+        "n_people": "2",
+        "avg_dist": "17.4",
+        "hour_rank": "0.741379310344828"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.9843,60.149]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Suomenlinna",
+        "time_interval": "2019-08-01 22:00:00",
+        "n_people": "1",
+        "avg_dist": "24.46",
+        "hour_rank": "0.0172413793103448"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.9843,60.149]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Suomenlinna",
+        "time_interval": "2019-08-01 23:00:00",
+        "n_people": "1",
+        "avg_dist": "23.56",
+        "hour_rank": "0.0175438596491228"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.9843,60.149]
+      }
+    }
+  ]
+}

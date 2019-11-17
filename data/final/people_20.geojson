@@ -1,0 +1,341 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Stockmann",
+        "time_interval": "2019-08-01 00:00:00",
+        "n_people": "8",
+        "avg_dist": "27.28",
+        "hour_rank": "0.759259259259259"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.94214,60.16829]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Stockmann",
+        "time_interval": "2019-08-01 01:00:00",
+        "n_people": "4",
+        "avg_dist": "20.28",
+        "hour_rank": "0.433962264150943"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.94214,60.16829]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Stockmann",
+        "time_interval": "2019-08-01 02:00:00",
+        "n_people": "2",
+        "avg_dist": "29.32",
+        "hour_rank": "0.0961538461538462"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.94214,60.16829]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Stockmann",
+        "time_interval": "2019-08-01 03:00:00",
+        "n_people": "3",
+        "avg_dist": "29.32",
+        "hour_rank": "0.245283018867925"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.94214,60.16829]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Stockmann",
+        "time_interval": "2019-08-01 04:00:00",
+        "n_people": "10",
+        "avg_dist": "25.36",
+        "hour_rank": "0.87037037037037"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.94214,60.16829]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Stockmann",
+        "time_interval": "2019-08-01 05:00:00",
+        "n_people": "14",
+        "avg_dist": "18.79",
+        "hour_rank": "0.690909090909091"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.94214,60.16829]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Stockmann",
+        "time_interval": "2019-08-01 06:00:00",
+        "n_people": "21",
+        "avg_dist": "14.89",
+        "hour_rank": "0.517857142857143"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.94214,60.16829]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Stockmann",
+        "time_interval": "2019-08-01 07:00:00",
+        "n_people": "29",
+        "avg_dist": "21.87",
+        "hour_rank": "0.589285714285714"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.94214,60.16829]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Stockmann",
+        "time_interval": "2019-08-01 08:00:00",
+        "n_people": "69",
+        "avg_dist": "16.1",
+        "hour_rank": "0.964285714285714"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.94214,60.16829]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Stockmann",
+        "time_interval": "2019-08-01 09:00:00",
+        "n_people": "78",
+        "avg_dist": "13.75",
+        "hour_rank": "0.803571428571429"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.94214,60.16829]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Stockmann",
+        "time_interval": "2019-08-01 10:00:00",
+        "n_people": "93",
+        "avg_dist": "14.89",
+        "hour_rank": "0.910714285714286"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.94214,60.16829]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Stockmann",
+        "time_interval": "2019-08-01 11:00:00",
+        "n_people": "87",
+        "avg_dist": "13.75",
+        "hour_rank": "0.839285714285714"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.94214,60.16829]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Stockmann",
+        "time_interval": "2019-08-01 12:00:00",
+        "n_people": "77",
+        "avg_dist": "14.89",
+        "hour_rank": "0.607142857142857"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.94214,60.16829]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Stockmann",
+        "time_interval": "2019-08-01 13:00:00",
+        "n_people": "85",
+        "avg_dist": "13.75",
+        "hour_rank": "0.714285714285714"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.94214,60.16829]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Stockmann",
+        "time_interval": "2019-08-01 14:00:00",
+        "n_people": "107",
+        "avg_dist": "13.75",
+        "hour_rank": "0.982142857142857"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.94214,60.16829]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Stockmann",
+        "time_interval": "2019-08-01 15:00:00",
+        "n_people": "90",
+        "avg_dist": "13.75",
+        "hour_rank": "0.946428571428571"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.94214,60.16829]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Stockmann",
+        "time_interval": "2019-08-01 16:00:00",
+        "n_people": "88",
+        "avg_dist": "16.1",
+        "hour_rank": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.94214,60.16829]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Stockmann",
+        "time_interval": "2019-08-01 17:00:00",
+        "n_people": "50",
+        "avg_dist": "18.79",
+        "hour_rank": "0.803571428571429"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.94214,60.16829]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Stockmann",
+        "time_interval": "2019-08-01 18:00:00",
+        "n_people": "16",
+        "avg_dist": "21.87",
+        "hour_rank": "0.428571428571429"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.94214,60.16829]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Stockmann",
+        "time_interval": "2019-08-01 19:00:00",
+        "n_people": "11",
+        "avg_dist": "20.28",
+        "hour_rank": "0.410714285714286"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.94214,60.16829]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Stockmann",
+        "time_interval": "2019-08-01 20:00:00",
+        "n_people": "12",
+        "avg_dist": "21.87",
+        "hour_rank": "0.607142857142857"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.94214,60.16829]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Stockmann",
+        "time_interval": "2019-08-01 21:00:00",
+        "n_people": "7",
+        "avg_dist": "21.87",
+        "hour_rank": "0.37037037037037"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.94214,60.16829]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Stockmann",
+        "time_interval": "2019-08-01 22:00:00",
+        "n_people": "9",
+        "avg_dist": "23.56",
+        "hour_rank": "0.642857142857143"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.94214,60.16829]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Stockmann",
+        "time_interval": "2019-08-01 23:00:00",
+        "n_people": "11",
+        "avg_dist": "25.36",
+        "hour_rank": "0.740740740740741"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.94214,60.16829]
+      }
+    }
+  ]
+}

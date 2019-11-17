@@ -1,0 +1,341 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Kaivopuiston ranta",
+        "time_interval": "2019-08-01 00:00:00",
+        "n_people": "6",
+        "avg_dist": "27.28",
+        "hour_rank": "0.588235294117647"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95595,60.1538]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Kaivopuiston ranta",
+        "time_interval": "2019-08-01 01:00:00",
+        "n_people": "6",
+        "avg_dist": "25.36",
+        "hour_rank": "0.705882352941177"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95595,60.1538]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Kaivopuiston ranta",
+        "time_interval": "2019-08-01 02:00:00",
+        "n_people": "6",
+        "avg_dist": "27.28",
+        "hour_rank": "0.909090909090909"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95595,60.1538]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Kaivopuiston ranta",
+        "time_interval": "2019-08-01 03:00:00",
+        "n_people": "7",
+        "avg_dist": "23.56",
+        "hour_rank": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95595,60.1538]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Kaivopuiston ranta",
+        "time_interval": "2019-08-01 04:00:00",
+        "n_people": "9",
+        "avg_dist": "26.32",
+        "hour_rank": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95595,60.1538]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Kaivopuiston ranta",
+        "time_interval": "2019-08-01 05:00:00",
+        "n_people": "7",
+        "avg_dist": "27.28",
+        "hour_rank": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95595,60.1538]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Kaivopuiston ranta",
+        "time_interval": "2019-08-01 06:00:00",
+        "n_people": "8",
+        "avg_dist": "25.36",
+        "hour_rank": "0.962962962962963"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95595,60.1538]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Kaivopuiston ranta",
+        "time_interval": "2019-08-01 07:00:00",
+        "n_people": "10",
+        "avg_dist": "29.32",
+        "hour_rank": "0.945454545454545"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95595,60.1538]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Kaivopuiston ranta",
+        "time_interval": "2019-08-01 08:00:00",
+        "n_people": "13",
+        "avg_dist": "29.32",
+        "hour_rank": "0.948275862068966"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95595,60.1538]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Kaivopuiston ranta",
+        "time_interval": "2019-08-01 09:00:00",
+        "n_people": "15",
+        "avg_dist": "25.36",
+        "hour_rank": "0.836363636363636"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95595,60.1538]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Kaivopuiston ranta",
+        "time_interval": "2019-08-01 10:00:00",
+        "n_people": "21",
+        "avg_dist": "21.87",
+        "hour_rank": "0.916666666666667"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95595,60.1538]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Kaivopuiston ranta",
+        "time_interval": "2019-08-01 11:00:00",
+        "n_people": "14",
+        "avg_dist": "18.79",
+        "hour_rank": "0.683333333333333"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95595,60.1538]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Kaivopuiston ranta",
+        "time_interval": "2019-08-01 12:00:00",
+        "n_people": "21",
+        "avg_dist": "23.56",
+        "hour_rank": "0.8"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95595,60.1538]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Kaivopuiston ranta",
+        "time_interval": "2019-08-01 13:00:00",
+        "n_people": "23",
+        "avg_dist": "26.32",
+        "hour_rank": "0.830508474576271"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95595,60.1538]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Kaivopuiston ranta",
+        "time_interval": "2019-08-01 14:00:00",
+        "n_people": "26",
+        "avg_dist": "13.75",
+        "hour_rank": "0.85"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95595,60.1538]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Kaivopuiston ranta",
+        "time_interval": "2019-08-01 15:00:00",
+        "n_people": "38",
+        "avg_dist": "18.79",
+        "hour_rank": "0.9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95595,60.1538]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Kaivopuiston ranta",
+        "time_interval": "2019-08-01 16:00:00",
+        "n_people": "36",
+        "avg_dist": "23.56",
+        "hour_rank": "0.85"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95595,60.1538]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Kaivopuiston ranta",
+        "time_interval": "2019-08-01 17:00:00",
+        "n_people": "39",
+        "avg_dist": "20.28",
+        "hour_rank": "0.870967741935484"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95595,60.1538]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Kaivopuiston ranta",
+        "time_interval": "2019-08-01 18:00:00",
+        "n_people": "34",
+        "avg_dist": "20.28",
+        "hour_rank": "0.868852459016393"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95595,60.1538]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Kaivopuiston ranta",
+        "time_interval": "2019-08-01 19:00:00",
+        "n_people": "25",
+        "avg_dist": "20.28",
+        "hour_rank": "0.741379310344828"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95595,60.1538]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Kaivopuiston ranta",
+        "time_interval": "2019-08-01 20:00:00",
+        "n_people": "12",
+        "avg_dist": "20.28",
+        "hour_rank": "0.56"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95595,60.1538]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Kaivopuiston ranta",
+        "time_interval": "2019-08-01 21:00:00",
+        "n_people": "3",
+        "avg_dist": "23.56",
+        "hour_rank": "0.395833333333333"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95595,60.1538]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Kaivopuiston ranta",
+        "time_interval": "2019-08-01 22:00:00",
+        "n_people": "3",
+        "avg_dist": "23.56",
+        "hour_rank": "0.466666666666667"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95595,60.1538]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Kaivopuiston ranta",
+        "time_interval": "2019-08-01 23:00:00",
+        "n_people": "3",
+        "avg_dist": "23.56",
+        "hour_rank": "0.525"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95595,60.1538]
+      }
+    }
+  ]
+}

@@ -1,0 +1,341 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Kauppatori",
+        "time_interval": "2019-08-01 00:00:00",
+        "n_people": "43",
+        "avg_dist": "17.4",
+        "hour_rank": "0.859375"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95415,60.16762]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Kauppatori",
+        "time_interval": "2019-08-01 01:00:00",
+        "n_people": "36",
+        "avg_dist": "14.89",
+        "hour_rank": "0.734375"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95415,60.16762]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Kauppatori",
+        "time_interval": "2019-08-01 02:00:00",
+        "n_people": "34",
+        "avg_dist": "16.1",
+        "hour_rank": "0.71875"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95415,60.16762]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Kauppatori",
+        "time_interval": "2019-08-01 03:00:00",
+        "n_people": "33",
+        "avg_dist": "14.89",
+        "hour_rank": "0.671875"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95415,60.16762]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Kauppatori",
+        "time_interval": "2019-08-01 04:00:00",
+        "n_people": "39",
+        "avg_dist": "17.4",
+        "hour_rank": "0.5625"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95415,60.16762]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Kauppatori",
+        "time_interval": "2019-08-01 05:00:00",
+        "n_people": "63",
+        "avg_dist": "14.89",
+        "hour_rank": "0.65625"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95415,60.16762]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Kauppatori",
+        "time_interval": "2019-08-01 06:00:00",
+        "n_people": "98",
+        "avg_dist": "14.89",
+        "hour_rank": "0.75"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95415,60.16762]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Kauppatori",
+        "time_interval": "2019-08-01 07:00:00",
+        "n_people": "125",
+        "avg_dist": "13.75",
+        "hour_rank": "0.8125"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95415,60.16762]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Kauppatori",
+        "time_interval": "2019-08-01 08:00:00",
+        "n_people": "158",
+        "avg_dist": "11.7",
+        "hour_rank": "0.8125"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95415,60.16762]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Kauppatori",
+        "time_interval": "2019-08-01 09:00:00",
+        "n_people": "165",
+        "avg_dist": "9.92",
+        "hour_rank": "0.693548387096774"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95415,60.16762]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Kauppatori",
+        "time_interval": "2019-08-01 10:00:00",
+        "n_people": "183",
+        "avg_dist": "10.78",
+        "hour_rank": "0.82258064516129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95415,60.16762]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Kauppatori",
+        "time_interval": "2019-08-01 11:00:00",
+        "n_people": "168",
+        "avg_dist": "10.78",
+        "hour_rank": "0.661290322580645"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95415,60.16762]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Kauppatori",
+        "time_interval": "2019-08-01 12:00:00",
+        "n_people": "153",
+        "avg_dist": "10.78",
+        "hour_rank": "0.661290322580645"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95415,60.16762]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Kauppatori",
+        "time_interval": "2019-08-01 13:00:00",
+        "n_people": "149",
+        "avg_dist": "10.78",
+        "hour_rank": "0.709677419354839"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95415,60.16762]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Kauppatori",
+        "time_interval": "2019-08-01 14:00:00",
+        "n_people": "160",
+        "avg_dist": "11.7",
+        "hour_rank": "0.935483870967742"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95415,60.16762]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Kauppatori",
+        "time_interval": "2019-08-01 15:00:00",
+        "n_people": "127",
+        "avg_dist": "11.7",
+        "hour_rank": "0.806451612903226"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95415,60.16762]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Kauppatori",
+        "time_interval": "2019-08-01 16:00:00",
+        "n_people": "119",
+        "avg_dist": "12.69",
+        "hour_rank": "0.758064516129032"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95415,60.16762]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Kauppatori",
+        "time_interval": "2019-08-01 17:00:00",
+        "n_people": "119",
+        "avg_dist": "14.89",
+        "hour_rank": "0.859375"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95415,60.16762]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Kauppatori",
+        "time_interval": "2019-08-01 18:00:00",
+        "n_people": "107",
+        "avg_dist": "13.75",
+        "hour_rank": "0.859375"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95415,60.16762]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Kauppatori",
+        "time_interval": "2019-08-01 19:00:00",
+        "n_people": "90",
+        "avg_dist": "16.1",
+        "hour_rank": "0.78125"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95415,60.16762]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Kauppatori",
+        "time_interval": "2019-08-01 20:00:00",
+        "n_people": "62",
+        "avg_dist": "14.89",
+        "hour_rank": "0.703125"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95415,60.16762]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Kauppatori",
+        "time_interval": "2019-08-01 21:00:00",
+        "n_people": "32",
+        "avg_dist": "17.4",
+        "hour_rank": "0.296875"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95415,60.16762]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Kauppatori",
+        "time_interval": "2019-08-01 22:00:00",
+        "n_people": "31",
+        "avg_dist": "18.79",
+        "hour_rank": "0.390625"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95415,60.16762]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Kauppatori",
+        "time_interval": "2019-08-01 23:00:00",
+        "n_people": "31",
+        "avg_dist": "14.89",
+        "hour_rank": "0.5"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.95415,60.16762]
+      }
+    }
+  ]
+}

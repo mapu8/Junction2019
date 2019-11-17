@@ -1,0 +1,341 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Hernesaari LHC",
+        "time_interval": "2019-08-01 00:00:00",
+        "n_people": "5",
+        "avg_dist": "5.175",
+        "hour_rank": "0.682539682539683"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.92138,60.14951]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Hernesaari LHC",
+        "time_interval": "2019-08-01 01:00:00",
+        "n_people": "5",
+        "avg_dist": "5.41",
+        "hour_rank": "0.746031746031746"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.92138,60.14951]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Hernesaari LHC",
+        "time_interval": "2019-08-01 02:00:00",
+        "n_people": "5",
+        "avg_dist": "4.94",
+        "hour_rank": "0.734375"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.92138,60.14951]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Hernesaari LHC",
+        "time_interval": "2019-08-01 03:00:00",
+        "n_people": "5",
+        "avg_dist": "5.175",
+        "hour_rank": "0.634920634920635"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.92138,60.14951]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Hernesaari LHC",
+        "time_interval": "2019-08-01 04:00:00",
+        "n_people": "8",
+        "avg_dist": "6.185",
+        "hour_rank": "0.75"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.92138,60.14951]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Hernesaari LHC",
+        "time_interval": "2019-08-01 05:00:00",
+        "n_people": "7",
+        "avg_dist": "5.41",
+        "hour_rank": "0.483333333333333"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.92138,60.14951]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Hernesaari LHC",
+        "time_interval": "2019-08-01 06:00:00",
+        "n_people": "10",
+        "avg_dist": "8.38",
+        "hour_rank": "0.453125"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.92138,60.14951]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Hernesaari LHC",
+        "time_interval": "2019-08-01 07:00:00",
+        "n_people": "10",
+        "avg_dist": "8.38",
+        "hour_rank": "0.265625"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.92138,60.14951]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Hernesaari LHC",
+        "time_interval": "2019-08-01 08:00:00",
+        "n_people": "11",
+        "avg_dist": "8.38",
+        "hour_rank": "0.28125"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.92138,60.14951]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Hernesaari LHC",
+        "time_interval": "2019-08-01 09:00:00",
+        "n_people": "10",
+        "avg_dist": "9.12",
+        "hour_rank": "0.265625"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.92138,60.14951]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Hernesaari LHC",
+        "time_interval": "2019-08-01 10:00:00",
+        "n_people": "17",
+        "avg_dist": "12.195",
+        "hour_rank": "0.34375"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.92138,60.14951]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Hernesaari LHC",
+        "time_interval": "2019-08-01 11:00:00",
+        "n_people": "7",
+        "avg_dist": "5.91",
+        "hour_rank": "0.245901639344262"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.92138,60.14951]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Hernesaari LHC",
+        "time_interval": "2019-08-01 12:00:00",
+        "n_people": "10",
+        "avg_dist": "10.78",
+        "hour_rank": "0.258064516129032"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.92138,60.14951]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Hernesaari LHC",
+        "time_interval": "2019-08-01 13:00:00",
+        "n_people": "18",
+        "avg_dist": "12.69",
+        "hour_rank": "0.274193548387097"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.92138,60.14951]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Hernesaari LHC",
+        "time_interval": "2019-08-01 14:00:00",
+        "n_people": "5",
+        "avg_dist": "9.92",
+        "hour_rank": "0.17741935483871"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.92138,60.14951]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Hernesaari LHC",
+        "time_interval": "2019-08-01 15:00:00",
+        "n_people": "8",
+        "avg_dist": "11.7",
+        "hour_rank": "0.516129032258065"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.92138,60.14951]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Hernesaari LHC",
+        "time_interval": "2019-08-01 16:00:00",
+        "n_people": "48",
+        "avg_dist": "17.4",
+        "hour_rank": "0.919354838709677"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.92138,60.14951]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Hernesaari LHC",
+        "time_interval": "2019-08-01 17:00:00",
+        "n_people": "7",
+        "avg_dist": "9.92",
+        "hour_rank": "0.634920634920635"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.92138,60.14951]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Hernesaari LHC",
+        "time_interval": "2019-08-01 18:00:00",
+        "n_people": "9",
+        "avg_dist": "16.75",
+        "hour_rank": "0.825396825396825"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.92138,60.14951]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Hernesaari LHC",
+        "time_interval": "2019-08-01 19:00:00",
+        "n_people": "7",
+        "avg_dist": "11.7",
+        "hour_rank": "0.698412698412698"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.92138,60.14951]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Hernesaari LHC",
+        "time_interval": "2019-08-01 20:00:00",
+        "n_people": "3",
+        "avg_dist": "7.05",
+        "hour_rank": "0.3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.92138,60.14951]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Hernesaari LHC",
+        "time_interval": "2019-08-01 21:00:00",
+        "n_people": "3",
+        "avg_dist": "7.37",
+        "hour_rank": "0.426229508196721"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.92138,60.14951]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Hernesaari LHC",
+        "time_interval": "2019-08-01 22:00:00",
+        "n_people": "3",
+        "avg_dist": "7.69",
+        "hour_rank": "0.34375"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.92138,60.14951]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "beacon_name": "Hernesaari LHC",
+        "time_interval": "2019-08-01 23:00:00",
+        "n_people": "3",
+        "avg_dist": "7.05",
+        "hour_rank": "0.333333333333333"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.92138,60.14951]
+      }
+    }
+  ]
+}
