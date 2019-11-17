@@ -1,3 +1,6 @@
+#' This file is copy pasted to an Azure R script.
+#' It is a wrapper script for the DNA of Helsinki API
+
 library(dplyr)
 library(jsonlite)
 library(lubridate)
@@ -39,7 +42,7 @@ stations = c(
   `00000000fffb8cf0` = "Suomenlinna"
 )
 
-#' Prepare data from Business Finland API
+#' Prepare data from the DNA of Helsinki API
 #'
 #' @param data data frame with columns serial, hash, time, longitude, latitude, distance
 #'
