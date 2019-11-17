@@ -60,7 +60,7 @@ var map,heatLayer, datasource, datasourceHeat, datasourceBeacon, client, popup, 
                 });
                 datasourceHeat = new atlas.source.DataSource();
                 map.sources.add(datasourceHeat);
-                 datasourceHeat.importDataFromUrl('people_summary.js');
+                 datasourceHeat.importDataFromUrl('./data/people_summary.js');
                   heatLayer = new atlas.layer.HeatMapLayer(datasourceHeat, null, {
                     weight: ['get', 'point_count'],
                     radius: 40,
@@ -71,7 +71,7 @@ var map,heatLayer, datasource, datasourceHeat, datasourceBeacon, client, popup, 
                 
 
                 datasourceBeacon = new atlas.source.DataSource();
-                datasourceBeacon.importDataFromUrl('./data/people_summary.json');
+                datasourceBeacon.importDataFromUrl('./data/people_summary.js');
                 map.sources.add(datasourceBeacon);
                 //Add a layer for rendering the results.
                 var beaconLayer = new atlas.layer.SymbolLayer(datasourceBeacon, null, {
@@ -218,7 +218,7 @@ var map,heatLayer, datasource, datasourceHeat, datasourceBeacon, client, popup, 
             const layers = map.getLayers();
             // console.log(layers);
             if(datasourceHeat){
-                // 
+                // 22 beacons
                 var pt = heatLayer.getOptions();
                 console.log(pt.radius)
                 console.log(n_people)
