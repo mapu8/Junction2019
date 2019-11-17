@@ -140,15 +140,19 @@ html,
 
         .slidecontainer {
             position:absolute;
-            left: 97%;
-            top: 80px;
-            width: 100%;
+            right: -175px;
+            top: 260px;
+            -ms-transform: rotate(90deg); /* IE 9 */
+            -webkit-transform: rotate(90deg); /* Safari prior 9.0 */
+            transform: rotate(90deg); /* Standard syntax */
+            
+            /* width: 100%; */
           }
           
           .slider {
-            -webkit-appearance: slider-vertical;
-            width: 35px;
-            height: 400px;
+            -webkit-appearance: none;
+            width: 400px;
+            height: 35px;
             border-radius: 5px;
             background: #d3d3d3;
             outline: none;
