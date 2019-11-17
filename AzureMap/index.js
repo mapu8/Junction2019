@@ -1,12 +1,17 @@
 
-var map, heatLayer_1, datasourceHeat_1, n_people1,
+var map, 
+object1= {layer:{},data_source:{},n_people:{}},
+heatLayer_1, datasourceHeat_1, n_people1,
 heatLayer_2, datasourceHeat_2, n_people2,
 heatLayer_3, datasourceHeat_3, n_people3,
 heatLayer_4, datasourceHeat_4, n_people4,
-datasource, datasourceBeacon, client, popup, searchInput, resultsPanel, searchInputLength, centerMapOnResults,   time, shapes;
+heatLayer_5, datasourceHeat_5, n_people5,
+heatLayer_6, datasourceHeat_6, n_people6
+heatLayer_7, datasourceHeat_7, n_people7,
+heatLayer_8, datasourceHeat_8, n_people8,
+datasource, datasourceBeacon, client, popup, searchInput, resultsPanel, searchInputLength, centerMapOnResults,   time, shapes ,url;
 
-    const Http = new XMLHttpRequest();
-    var url='https://api.telegram.org/bot1030965882:AAEH9qqrIMB5T2Ja5J7FO6sjL-z93_xaC6Y/sendMessage?chat_id=150042785&text=TestingAPP';
+    
         //The minimum number of characters needed in the search input before a search is performed.
         var minSearchInputLength = 3;
         //The number of ms between key strokes to wait before performing a search.
@@ -15,7 +20,7 @@ datasource, datasourceBeacon, client, popup, searchInput, resultsPanel, searchIn
             //Initialize a map instance.
             map = new atlas.Map('Map', {
                 center: [24.95, 60.17],
-                zoom: 15,
+                zoom: 12,
                 view: 'Auto',
 				//Add your Azure Maps subscription key to the map SDK. Get an Azure Maps key at https://azure.com/maps
                 authOptions: {
@@ -54,7 +59,7 @@ datasource, datasourceBeacon, client, popup, searchInput, resultsPanel, searchIn
                 // datasourceHeat.importDataFromUrl('./data/earthquakes.json');
                 
                 
-                 map.layers.add(searchLayer);
+                //  map.layers.add(searchLayer);
 
                  datasourceBeacon = new atlas.source.DataSource();
                 datasourceBeacon.importDataFromUrl('./data/people_summary.js');
@@ -70,6 +75,7 @@ datasource, datasourceBeacon, client, popup, searchInput, resultsPanel, searchIn
 
                  map.layers.add(beaconLayer);
 
+                // addLayer(object1)
 
                  datasourceHeat_1 = new atlas.source.DataSource(null, {
                     //Tell the data source to cluster point data.
@@ -292,7 +298,7 @@ datasource, datasourceBeacon, client, popup, searchInput, resultsPanel, searchIn
             // console.log(val)
             const layers = map.getLayers();
             // console.log(layers);
-            if(datasourceHeat_1){
+            // if(datasourceHeat_1){
                 // 22 beacons
                 var pt = heatLayer_1.getOptions();
                 console.log(pt.radius)
@@ -300,9 +306,11 @@ datasource, datasourceBeacon, client, popup, searchInput, resultsPanel, searchIn
                  pt.radius = n_people1;
 
                 heatLayer_1.setOptions(pt);
+                // changeRadius(object1,val)
                 
                 // shapes = datasourceHeat_1.getShapes();
                 n_people1 = parseInt(datasourceHeat_1.shapes[val].getProperties().n_people);
+                var alertMsg1 = parseFloat(datasourceHeat_1.shapes[val].getProperties().hour_rank);
 
                 // 22 beacons
                 var pt2 = heatLayer_2.getOptions();
@@ -313,6 +321,7 @@ datasource, datasourceBeacon, client, popup, searchInput, resultsPanel, searchIn
                 heatLayer_2.setOptions(pt2);
                 
                 n_people2 = parseInt(datasourceHeat_2.shapes[val].getProperties().n_people);
+                
 
 
                 // 22 beacons
@@ -342,17 +351,23 @@ datasource, datasourceBeacon, client, popup, searchInput, resultsPanel, searchIn
                 /////================/////
                 time = (datasourceHeat_1.shapes[val].getProperties().time_interval);
                 
-                if(n_people1 > 40){
-                    // Http.open("GET", url);
-                    // Http.send();
+                if(alertMsg1 > 0.7 || alertMsg2 > 0.7 || alertMsg3 > 0.7||alertMsg3 > 0.7){
+                    var  Http = new XMLHttpRequest();
+                    var msg = "Abraham nearby the Beacon ";
+                    msg = msg.concat(datasourceHeat_3.shapes[val].getProperties().beacon_name);
+                    msg = msg.concat(" the concentration of people is higher than ",alertMsg1)
+                    url ="https://api.telegram.org/bot1030965882:AAEH9qqrIMB5T2Ja5J7FO6sjL-z93_xaC6Y/sendMessage?chat_id=403339413&text="
+                    url= url.concat(msg);
+                     Http.open("GET", url);
+                     Http.send();
                 }
                 //  console.log(n_people1)
                 
-            }
-            else{
-                map.sources.add(datasourceHeat_1);
-                map.sources.add(datasourceHeat_2);
-            }
+            // }
+            // else{
+            //     map.sources.add(datasourceHeat_1);
+            //     map.sources.add(datasourceHeat_2);
+            // }
             
             
             // datasourceHeat.setShapes(shapes);
@@ -369,3 +384,33 @@ datasource, datasourceBeacon, client, popup, searchInput, resultsPanel, searchIn
             // datasourceHeat.shapes[0].getProperties()
             
         }
+
+        // function addLayer(dataObject){
+        //     dataObject.data_source = new atlas.source.DataSource(null, {
+        //         //Tell the data source to cluster point data.
+        //         cluster: true,
+        //         // //The radius in pixels to cluster points together.
+        //         clusterRadius: 5    
+        //     });
+        //     // dataObject.data_source = new atlas.source.DataSource();
+        //     map.sources.add(dataObject.data_source);
+        //     dataObject.data_source.importDataFromUrl('./data/people_1.js');
+        //     dataObject.layer = new atlas.layer.HeatMapLayerobject(dataObject.data_source, null, {
+        //         weight: ['get', 'point_count'],
+        //         radius: 15,
+        //         opacity: 0.8
+        //     });
+        //     map.layers.add(dataObject.layer,'labels1')
+        // }
+
+        // function changeRadius(dataObject,val){
+        //     var pt = dataObject.getOptions();
+        //         console.log(pt.radius)
+        //          console.log(dataObject.n_people)
+        //          pt.radius = dataObject.n_people;
+
+        //          dataObject.heatLayer.setOptions(pt);
+                
+        //         // shapes = datasourceHeat_1.getShapes();
+        //         n_people1 = parseInt(dataObject.datasourceHeat.shapes[val].getProperties().n_people);
+        // }
